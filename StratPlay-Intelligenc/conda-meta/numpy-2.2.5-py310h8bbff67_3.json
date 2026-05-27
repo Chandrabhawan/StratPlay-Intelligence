@@ -1,0 +1,40 @@
+{
+  "name": "numpy",
+  "version": "2.2.5",
+  "build": "py310h8bbff67_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main",
+  "subdir": "win-64",
+  "fn": "numpy-2.2.5-py310h8bbff67_3.conda",
+  "md5": "53e917f86f1632b8806b56b7c5c610d5",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/numpy-2.2.5-py310h8bbff67_3.conda",
+  "sha256": "afef59a71f35c4b2527f4b221e206b635d50dcf8bd2a72983525a5d98c2f46a7",
+  "depends": [
+    "blas 1.0 mkl",
+    "mkl >=2025.0.0,<2026.0a0",
+    "mkl-service >=2.3.0,<3.0a0",
+    "mkl_fft",
+    "mkl_random",
+    "numpy-base 2.2.5 py310h89dd80d_3",
+    "python >=3.10,<3.11.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "timestamp": 1776191170000,
+  "size": 9963,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\Harsh Kushwaha\\miniconda3\\pkgs\\numpy-2.2.5-py310h8bbff67_3.conda",
+  "extracted_package_dir": "C:\\Users\\Harsh Kushwaha\\miniconda3\\pkgs\\numpy-2.2.5-py310h8bbff67_3",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\Harsh Kushwaha\\miniconda3\\pkgs\\numpy-2.2.5-py310h8bbff67_3",
+    "type": 1
+  }
+}
