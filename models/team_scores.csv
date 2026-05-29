@@ -1,0 +1,2334 @@
+match_id,team_batting,total_runs,match_date
+335982,Kolkata Knight Riders,222,2008-04-18
+335982,Royal Challengers Bangalore,82,2008-04-18
+335983,Chennai Super Kings,240,2008-04-19
+335983,Punjab Kings,207,2008-04-19
+335984,Delhi Capitals,132,2008-04-19
+335984,Rajasthan Royals,129,2008-04-19
+335985,Mumbai Indians,165,2008-04-20
+335985,Royal Challengers Bangalore,166,2008-04-20
+335986,Kolkata Knight Riders,112,2008-04-20
+335986,Sunrisers Hyderabad,110,2008-04-20
+335987,Punjab Kings,166,2008-04-21
+335987,Rajasthan Royals,168,2008-04-21
+335988,Delhi Capitals,143,2008-04-22
+335988,Sunrisers Hyderabad,142,2008-04-22
+335989,Chennai Super Kings,208,2008-04-23
+335989,Mumbai Indians,202,2008-04-23
+335990,Rajasthan Royals,217,2008-04-24
+335990,Sunrisers Hyderabad,214,2008-04-24
+335991,Mumbai Indians,116,2008-04-25
+335991,Punjab Kings,182,2008-04-25
+335992,Rajasthan Royals,138,2008-04-26
+335992,Royal Challengers Bangalore,135,2008-04-26
+335993,Chennai Super Kings,152,2008-04-26
+335993,Kolkata Knight Riders,147,2008-04-26
+335994,Mumbai Indians,154,2008-04-27
+335994,Sunrisers Hyderabad,155,2008-04-27
+335995,Delhi Capitals,158,2008-04-27
+335995,Punjab Kings,162,2008-04-27
+335996,Chennai Super Kings,178,2008-04-28
+335996,Royal Challengers Bangalore,165,2008-04-28
+335997,Kolkata Knight Riders,137,2008-04-29
+335997,Mumbai Indians,138,2008-04-29
+335998,Delhi Capitals,191,2008-04-30
+335998,Royal Challengers Bangalore,181,2008-04-30
+335999,Punjab Kings,167,2008-05-01
+335999,Sunrisers Hyderabad,164,2008-05-01
+336000,Kolkata Knight Riders,151,2008-05-01
+336000,Rajasthan Royals,196,2008-05-01
+336001,Chennai Super Kings,169,2008-05-02
+336001,Delhi Capitals,172,2008-05-02
+336002,Royal Challengers Bangalore,171,2008-05-25
+336002,Sunrisers Hyderabad,165,2008-05-25
+336003,Kolkata Knight Riders,169,2008-05-03
+336003,Punjab Kings,178,2008-05-03
+336004,Delhi Capitals,133,2008-05-04
+336004,Mumbai Indians,162,2008-05-04
+336005,Chennai Super Kings,109,2008-05-04
+336005,Rajasthan Royals,110,2008-05-04
+336006,Punjab Kings,127,2008-05-05
+336006,Royal Challengers Bangalore,126,2008-05-05
+336007,Chennai Super Kings,144,2008-05-06
+336007,Sunrisers Hyderabad,148,2008-05-06
+336008,Mumbai Indians,104,2008-05-07
+336008,Rajasthan Royals,103,2008-05-07
+336009,Chennai Super Kings,188,2008-05-08
+336009,Delhi Capitals,187,2008-05-08
+336010,Kolkata Knight Riders,129,2008-05-08
+336010,Royal Challengers Bangalore,124,2008-05-08
+336011,Rajasthan Royals,141,2008-05-09
+336011,Sunrisers Hyderabad,140,2008-05-09
+336012,Mumbai Indians,126,2008-05-28
+336012,Royal Challengers Bangalore,122,2008-05-28
+336013,Chennai Super Kings,181,2008-05-10
+336013,Punjab Kings,163,2008-05-10
+336014,Kolkata Knight Riders,204,2008-05-11
+336014,Sunrisers Hyderabad,181,2008-05-11
+336015,Delhi Capitals,156,2008-05-11
+336015,Rajasthan Royals,159,2008-05-11
+336016,Punjab Kings,144,2008-05-12
+336016,Royal Challengers Bangalore,143,2008-05-12
+336017,Delhi Capitals,110,2008-05-13
+336017,Kolkata Knight Riders,133,2008-05-13
+336018,Chennai Super Kings,156,2008-05-14
+336018,Mumbai Indians,158,2008-05-14
+336019,Punjab Kings,221,2008-05-28
+336019,Rajasthan Royals,180,2008-05-28
+336020,Delhi Capitals,194,2008-05-15
+336020,Sunrisers Hyderabad,182,2008-05-15
+336021,Kolkata Knight Riders,67,2008-05-16
+336021,Mumbai Indians,68,2008-05-16
+336022,Delhi Capitals,118,2008-05-17
+336022,Punjab Kings,94,2008-05-17
+336023,Rajasthan Royals,197,2008-05-17
+336023,Royal Challengers Bangalore,132,2008-05-17
+336024,Mumbai Indians,178,2008-05-18
+336024,Sunrisers Hyderabad,153,2008-05-18
+336025,Chennai Super Kings,55,2008-05-18
+336025,Kolkata Knight Riders,149,2008-05-18
+336026,Delhi Capitals,158,2008-05-19
+336026,Royal Challengers Bangalore,154,2008-05-19
+336027,Kolkata Knight Riders,147,2008-05-20
+336027,Rajasthan Royals,150,2008-05-20
+336028,Mumbai Indians,188,2008-05-21
+336028,Punjab Kings,189,2008-05-21
+336029,Chennai Super Kings,112,2008-05-21
+336029,Royal Challengers Bangalore,126,2008-05-21
+336031,Punjab Kings,178,2008-05-23
+336031,Sunrisers Hyderabad,175,2008-05-23
+336032,Delhi Capitals,179,2008-05-24
+336032,Mumbai Indians,176,2008-05-24
+336033,Chennai Super Kings,201,2008-05-24
+336033,Rajasthan Royals,211,2008-05-24
+336034,Royal Challengers Bangalore,156,2008-05-03
+336034,Sunrisers Hyderabad,153,2008-05-03
+336035,Kolkata Knight Riders,175,2008-05-25
+336035,Punjab Kings,174,2008-05-25
+336036,Mumbai Indians,145,2008-05-26
+336036,Rajasthan Royals,146,2008-05-26
+336037,Chennai Super Kings,148,2008-05-27
+336037,Sunrisers Hyderabad,147,2008-05-27
+336038,Delhi Capitals,87,2008-05-30
+336038,Rajasthan Royals,192,2008-05-30
+336039,Chennai Super Kings,116,2008-05-31
+336039,Punjab Kings,112,2008-05-31
+336040,Chennai Super Kings,163,2008-06-01
+336040,Rajasthan Royals,164,2008-06-01
+392181,Chennai Super Kings,146,2009-04-18
+392181,Mumbai Indians,165,2009-04-18
+392182,Rajasthan Royals,58,2009-04-18
+392182,Royal Challengers Bangalore,133,2009-04-18
+392183,Delhi Capitals,58,2009-04-19
+392183,Punjab Kings,104,2009-04-19
+392184,Kolkata Knight Riders,101,2009-04-19
+392184,Sunrisers Hyderabad,104,2009-04-19
+392185,Chennai Super Kings,179,2009-04-20
+392185,Royal Challengers Bangalore,87,2009-04-20
+392186,Kolkata Knight Riders,79,2009-04-21
+392186,Punjab Kings,158,2009-04-21
+392188,Royal Challengers Bangalore,160,2009-04-22
+392188,Sunrisers Hyderabad,184,2009-04-22
+392189,Chennai Super Kings,180,2009-04-23
+392189,Delhi Capitals,189,2009-04-23
+392190,Kolkata Knight Riders,165,2009-04-23
+392190,Rajasthan Royals,168,2009-04-23
+392191,Punjab Kings,173,2009-04-24
+392191,Royal Challengers Bangalore,168,2009-04-24
+392192,Mumbai Indians,156,2009-04-25
+392192,Sunrisers Hyderabad,168,2009-04-25
+392194,Delhi Capitals,150,2009-04-26
+392194,Royal Challengers Bangalore,149,2009-04-26
+392195,Punjab Kings,139,2009-04-26
+392195,Rajasthan Royals,112,2009-04-26
+392196,Chennai Super Kings,165,2009-04-27
+392196,Sunrisers Hyderabad,169,2009-04-27
+392197,Kolkata Knight Riders,95,2009-04-27
+392197,Mumbai Indians,187,2009-04-27
+392198,Delhi Capitals,143,2009-04-28
+392198,Rajasthan Royals,147,2009-04-28
+392199,Kolkata Knight Riders,139,2009-04-29
+392199,Royal Challengers Bangalore,143,2009-04-29
+392200,Mumbai Indians,116,2009-04-29
+392200,Punjab Kings,119,2009-04-29
+392201,Delhi Capitals,150,2009-04-30
+392201,Sunrisers Hyderabad,148,2009-04-30
+392202,Chennai Super Kings,164,2009-04-30
+392202,Rajasthan Royals,126,2009-04-30
+392203,Kolkata Knight Riders,139,2009-05-01
+392203,Mumbai Indians,148,2009-05-01
+392204,Punjab Kings,137,2009-05-01
+392204,Royal Challengers Bangalore,145,2009-05-01
+392205,Rajasthan Royals,142,2009-05-02
+392205,Sunrisers Hyderabad,141,2009-05-02
+392206,Chennai Super Kings,163,2009-05-02
+392206,Delhi Capitals,145,2009-05-02
+392207,Kolkata Knight Riders,153,2009-05-03
+392207,Punjab Kings,154,2009-05-03
+392208,Mumbai Indians,149,2009-05-03
+392208,Royal Challengers Bangalore,150,2009-05-03
+392209,Chennai Super Kings,178,2009-05-04
+392209,Sunrisers Hyderabad,100,2009-05-04
+392210,Punjab Kings,133,2009-05-05
+392210,Rajasthan Royals,211,2009-05-05
+392211,Delhi Capitals,157,2009-05-05
+392211,Kolkata Knight Riders,154,2009-05-05
+392212,Mumbai Indians,126,2009-05-06
+392212,Sunrisers Hyderabad,145,2009-05-06
+392213,Rajasthan Royals,107,2009-05-07
+392213,Royal Challengers Bangalore,105,2009-05-07
+392214,Chennai Super Kings,185,2009-05-07
+392214,Punjab Kings,174,2009-05-07
+392215,Delhi Capitals,118,2009-05-08
+392215,Mumbai Indians,116,2009-05-08
+392216,Punjab Kings,169,2009-05-09
+392216,Sunrisers Hyderabad,168,2009-05-09
+392217,Chennai Super Kings,141,2009-05-09
+392217,Rajasthan Royals,140,2009-05-09
+392218,Mumbai Indians,157,2009-05-10
+392218,Royal Challengers Bangalore,141,2009-05-10
+392219,Delhi Capitals,125,2009-05-10
+392219,Kolkata Knight Riders,123,2009-05-10
+392220,Rajasthan Royals,113,2009-05-11
+392220,Sunrisers Hyderabad,166,2009-05-11
+392221,Kolkata Knight Riders,173,2009-05-12
+392221,Royal Challengers Bangalore,176,2009-05-12
+392222,Mumbai Indians,122,2009-05-12
+392222,Punjab Kings,119,2009-05-12
+392223,Delhi Capitals,173,2009-05-13
+392223,Sunrisers Hyderabad,161,2009-05-13
+392224,Chennai Super Kings,129,2009-05-14
+392224,Royal Challengers Bangalore,132,2009-05-14
+392225,Mumbai Indians,143,2009-05-14
+392225,Rajasthan Royals,145,2009-05-14
+392226,Delhi Capitals,120,2009-05-15
+392226,Punjab Kings,123,2009-05-15
+392227,Chennai Super Kings,151,2009-05-16
+392227,Mumbai Indians,147,2009-05-16
+392228,Kolkata Knight Riders,160,2009-05-16
+392228,Sunrisers Hyderabad,166,2009-05-16
+392229,Punjab Kings,134,2009-05-17
+392229,Sunrisers Hyderabad,133,2009-05-17
+392230,Delhi Capitals,150,2009-05-17
+392230,Rajasthan Royals,136,2009-05-17
+392231,Chennai Super Kings,188,2009-05-18
+392231,Kolkata Knight Riders,189,2009-05-18
+392232,Delhi Capitals,134,2009-05-19
+392232,Royal Challengers Bangalore,135,2009-05-19
+392233,Kolkata Knight Riders,102,2009-05-20
+392233,Rajasthan Royals,101,2009-05-20
+392234,Chennai Super Kings,116,2009-05-20
+392234,Punjab Kings,92,2009-05-20
+392235,Delhi Capitals,166,2009-05-21
+392235,Mumbai Indians,165,2009-05-21
+392236,Royal Challengers Bangalore,170,2009-05-21
+392236,Sunrisers Hyderabad,158,2009-05-21
+392237,Delhi Capitals,153,2009-05-22
+392237,Sunrisers Hyderabad,154,2009-05-22
+392238,Chennai Super Kings,146,2009-05-23
+392238,Royal Challengers Bangalore,149,2009-05-23
+392239,Royal Challengers Bangalore,137,2009-05-24
+392239,Sunrisers Hyderabad,143,2009-05-24
+419106,Kolkata Knight Riders,161,2010-03-12
+419106,Sunrisers Hyderabad,150,2010-03-12
+419107,Mumbai Indians,212,2010-03-13
+419107,Rajasthan Royals,208,2010-03-13
+419108,Delhi Capitals,146,2010-03-13
+419108,Punjab Kings,142,2010-03-13
+419109,Kolkata Knight Riders,136,2010-03-14
+419109,Royal Challengers Bangalore,135,2010-03-14
+419110,Chennai Super Kings,159,2010-03-14
+419110,Sunrisers Hyderabad,190,2010-03-14
+419111,Delhi Capitals,142,2010-03-15
+419111,Rajasthan Royals,141,2010-03-15
+419112,Punjab Kings,203,2010-03-16
+419112,Royal Challengers Bangalore,204,2010-03-16
+419113,Chennai Super Kings,164,2010-03-16
+419113,Kolkata Knight Riders,109,2010-03-16
+419114,Delhi Capitals,120,2010-03-17
+419114,Mumbai Indians,218,2010-03-17
+419115,Rajasthan Royals,92,2010-03-18
+419115,Royal Challengers Bangalore,93,2010-03-18
+419116,Chennai Super Kings,190,2010-03-19
+419116,Delhi Capitals,185,2010-03-19
+419117,Punjab Kings,164,2010-03-19
+419117,Sunrisers Hyderabad,170,2010-03-19
+419118,Kolkata Knight Riders,134,2010-03-20
+419118,Rajasthan Royals,168,2010-03-20
+419119,Mumbai Indians,151,2010-03-20
+419119,Royal Challengers Bangalore,155,2010-03-20
+419120,Delhi Capitals,161,2010-03-21
+419120,Sunrisers Hyderabad,171,2010-03-21
+419121,Chennai Super Kings,145,2010-03-21
+419121,Punjab Kings,146,2010-03-21
+419122,Kolkata Knight Riders,155,2010-03-22
+419122,Mumbai Indians,156,2010-03-22
+419123,Chennai Super Kings,135,2010-03-23
+419123,Royal Challengers Bangalore,171,2010-03-23
+419124,Punjab Kings,152,2010-03-24
+419124,Rajasthan Royals,183,2010-03-24
+419125,Chennai Super Kings,180,2010-03-25
+419125,Mumbai Indians,181,2010-03-25
+419126,Rajasthan Royals,151,2010-03-26
+419126,Sunrisers Hyderabad,148,2010-03-26
+419127,Kolkata Knight Riders,183,2010-03-27
+419127,Punjab Kings,144,2010-03-27
+419128,Delhi Capitals,183,2010-03-25
+419128,Royal Challengers Bangalore,166,2010-03-25
+419129,Chennai Super Kings,160,2010-03-28
+419129,Rajasthan Royals,177,2010-03-28
+419130,Mumbai Indians,172,2010-03-28
+419130,Sunrisers Hyderabad,131,2010-03-28
+419131,Delhi Capitals,177,2010-03-29
+419131,Kolkata Knight Riders,137,2010-03-29
+419132,Mumbai Indians,164,2010-03-30
+419132,Punjab Kings,163,2010-03-30
+419133,Chennai Super Kings,162,2010-03-31
+419133,Royal Challengers Bangalore,161,2010-03-31
+419134,Delhi Capitals,188,2010-03-31
+419134,Rajasthan Royals,121,2010-03-31
+419135,Kolkata Knight Riders,181,2010-04-01
+419135,Sunrisers Hyderabad,157,2010-04-01
+419136,Punjab Kings,181,2010-04-02
+419136,Royal Challengers Bangalore,184,2010-04-02
+419137,Chennai Super Kings,246,2010-04-03
+419137,Rajasthan Royals,223,2010-04-03
+419138,Mumbai Indians,178,2010-04-03
+419138,Sunrisers Hyderabad,115,2010-04-03
+419139,Kolkata Knight Riders,200,2010-04-04
+419139,Punjab Kings,204,2010-04-04
+419140,Delhi Capitals,184,2010-04-04
+419140,Royal Challengers Bangalore,147,2010-04-04
+419141,Rajasthan Royals,159,2010-04-05
+419141,Sunrisers Hyderabad,157,2010-04-05
+419142,Chennai Super Kings,165,2010-04-06
+419142,Mumbai Indians,141,2010-04-06
+419143,Punjab Kings,153,2010-04-07
+419143,Rajasthan Royals,157,2010-04-07
+419144,Delhi Capitals,167,2010-04-07
+419144,Kolkata Knight Riders,181,2010-04-07
+419145,Royal Challengers Bangalore,184,2010-04-08
+419145,Sunrisers Hyderabad,186,2010-04-08
+419146,Mumbai Indians,154,2010-04-09
+419146,Punjab Kings,158,2010-04-09
+419147,Chennai Super Kings,138,2010-04-10
+419147,Sunrisers Hyderabad,139,2010-04-10
+419148,Kolkata Knight Riders,160,2010-04-10
+419148,Royal Challengers Bangalore,162,2010-04-10
+419149,Delhi Capitals,111,2010-04-11
+419149,Punjab Kings,112,2010-04-11
+419150,Mumbai Indians,174,2010-04-11
+419150,Rajasthan Royals,137,2010-04-11
+419151,Royal Challengers Bangalore,138,2010-04-12
+419151,Sunrisers Hyderabad,151,2010-04-12
+419152,Delhi Capitals,144,2010-04-13
+419152,Mumbai Indians,183,2010-04-13
+419153,Chennai Super Kings,143,2010-04-13
+419153,Kolkata Knight Riders,139,2010-04-13
+419154,Rajasthan Royals,130,2010-04-14
+419154,Royal Challengers Bangalore,132,2010-04-14
+419155,Chennai Super Kings,112,2010-04-15
+419155,Delhi Capitals,113,2010-04-15
+419156,Punjab Kings,174,2010-04-16
+419156,Sunrisers Hyderabad,178,2010-04-16
+419157,Mumbai Indians,191,2010-04-17
+419157,Royal Challengers Bangalore,134,2010-04-17
+419158,Kolkata Knight Riders,133,2010-04-17
+419158,Rajasthan Royals,132,2010-04-17
+419159,Chennai Super Kings,195,2010-04-18
+419159,Punjab Kings,192,2010-04-18
+419160,Delhi Capitals,134,2010-04-18
+419160,Sunrisers Hyderabad,145,2010-04-18
+419161,Kolkata Knight Riders,135,2010-04-19
+419161,Mumbai Indians,133,2010-04-19
+419162,Mumbai Indians,184,2010-04-21
+419162,Royal Challengers Bangalore,149,2010-04-21
+419163,Chennai Super Kings,142,2010-04-22
+419163,Sunrisers Hyderabad,104,2010-04-22
+419164,Royal Challengers Bangalore,86,2010-04-24
+419164,Sunrisers Hyderabad,82,2010-04-24
+419165,Chennai Super Kings,168,2010-04-25
+419165,Mumbai Indians,146,2010-04-25
+501198,Chennai Super Kings,153,2011-04-08
+501198,Kolkata Knight Riders,151,2011-04-08
+501199,Rajasthan Royals,141,2011-04-09
+501199,Sunrisers Hyderabad,137,2011-04-09
+501200,Kochi Tuskers Kerala,161,2011-04-09
+501200,Royal Challengers Bangalore,162,2011-04-09
+501201,Delhi Capitals,95,2011-04-10
+501201,Mumbai Indians,99,2011-04-10
+501202,Pune Warriors,113,2011-04-10
+501202,Punjab Kings,112,2011-04-10
+501203,Kolkata Knight Riders,163,2011-04-11
+501203,Sunrisers Hyderabad,154,2011-04-11
+501204,Delhi Capitals,151,2011-04-12
+501204,Rajasthan Royals,152,2011-04-12
+501205,Mumbai Indians,143,2011-04-12
+501205,Royal Challengers Bangalore,140,2011-04-12
+501206,Chennai Super Kings,188,2011-04-13
+501206,Punjab Kings,193,2011-04-13
+501207,Kochi Tuskers Kerala,148,2011-04-13
+501207,Pune Warriors,151,2011-04-13
+501208,Royal Challengers Bangalore,142,2011-04-14
+501208,Sunrisers Hyderabad,175,2011-04-14
+501209,Kolkata Knight Riders,160,2011-04-15
+501209,Rajasthan Royals,159,2011-04-15
+501210,Kochi Tuskers Kerala,184,2011-04-15
+501210,Mumbai Indians,182,2011-04-15
+501211,Chennai Super Kings,183,2011-04-16
+501211,Royal Challengers Bangalore,162,2011-04-16
+501212,Punjab Kings,166,2011-04-16
+501212,Sunrisers Hyderabad,165,2011-04-16
+501213,Delhi Capitals,190,2011-04-17
+501213,Pune Warriors,187,2011-04-17
+501214,Kolkata Knight Riders,85,2011-04-17
+501214,Rajasthan Royals,81,2011-04-17
+501215,Chennai Super Kings,131,2011-04-18
+501215,Kochi Tuskers Kerala,135,2011-04-18
+501216,Delhi Capitals,152,2011-04-19
+501216,Sunrisers Hyderabad,168,2011-04-19
+501218,Mumbai Indians,124,2011-04-20
+501218,Pune Warriors,118,2011-04-20
+501219,Kochi Tuskers Kerala,132,2011-04-20
+501219,Kolkata Knight Riders,126,2011-04-20
+501220,Punjab Kings,195,2011-04-21
+501220,Rajasthan Royals,147,2011-04-21
+501221,Chennai Super Kings,156,2011-04-22
+501221,Mumbai Indians,164,2011-04-22
+501222,Kolkata Knight Riders,171,2011-04-22
+501222,Royal Challengers Bangalore,175,2011-04-22
+501223,Delhi Capitals,231,2011-04-23
+501223,Punjab Kings,202,2011-04-23
+501224,Mumbai Indians,172,2011-04-24
+501224,Sunrisers Hyderabad,135,2011-04-24
+501225,Kochi Tuskers Kerala,109,2011-04-24
+501225,Rajasthan Royals,111,2011-04-24
+501226,Chennai Super Kings,142,2011-04-25
+501226,Pune Warriors,117,2011-04-25
+501227,Delhi Capitals,160,2011-04-26
+501227,Royal Challengers Bangalore,161,2011-04-26
+501228,Chennai Super Kings,145,2011-04-27
+501228,Pune Warriors,141,2011-04-27
+501229,Kochi Tuskers Kerala,74,2011-04-27
+501229,Sunrisers Hyderabad,129,2011-04-27
+501230,Delhi Capitals,131,2011-04-28
+501230,Kolkata Knight Riders,148,2011-04-28
+501231,Mumbai Indians,94,2011-04-29
+501231,Rajasthan Royals,95,2011-04-29
+501232,Pune Warriors,155,2011-04-29
+501232,Royal Challengers Bangalore,181,2011-04-29
+501233,Delhi Capitals,157,2011-04-30
+501233,Kochi Tuskers Kerala,119,2011-04-30
+501234,Kolkata Knight Riders,120,2011-04-30
+501234,Punjab Kings,119,2011-04-30
+501235,Pune Warriors,143,2011-05-01
+501235,Rajasthan Royals,144,2011-05-01
+501236,Chennai Super Kings,165,2011-05-01
+501236,Sunrisers Hyderabad,146,2011-05-01
+501237,Mumbai Indians,159,2011-05-02
+501237,Punjab Kings,136,2011-05-02
+501238,Delhi Capitals,140,2011-05-02
+501238,Kochi Tuskers Kerala,141,2011-05-02
+501239,Kolkata Knight Riders,169,2011-05-03
+501239,Sunrisers Hyderabad,149,2011-05-03
+501240,Chennai Super Kings,149,2011-05-04
+501240,Rajasthan Royals,147,2011-05-04
+501241,Mumbai Indians,160,2011-05-04
+501241,Pune Warriors,139,2011-05-04
+501242,Kochi Tuskers Kerala,156,2011-05-05
+501242,Kolkata Knight Riders,139,2011-05-05
+501243,Delhi Capitals,179,2011-05-05
+501243,Sunrisers Hyderabad,175,2011-05-05
+501244,Punjab Kings,120,2011-05-06
+501244,Royal Challengers Bangalore,205,2011-05-06
+501245,Chennai Super Kings,114,2011-05-07
+501245,Kolkata Knight Riders,61,2011-05-07
+501246,Delhi Capitals,146,2011-05-07
+501246,Mumbai Indians,178,2011-05-07
+501247,Kochi Tuskers Kerala,125,2011-05-08
+501247,Royal Challengers Bangalore,128,2011-05-08
+501248,Pune Warriors,120,2011-05-08
+501248,Punjab Kings,119,2011-05-08
+501249,Chennai Super Kings,196,2011-05-09
+501249,Rajasthan Royals,133,2011-05-09
+501250,Pune Warriors,137,2011-05-10
+501250,Sunrisers Hyderabad,136,2011-05-10
+501251,Mumbai Indians,87,2011-05-10
+501251,Punjab Kings,163,2011-05-10
+501252,Rajasthan Royals,146,2011-05-11
+501252,Royal Challengers Bangalore,151,2011-05-11
+501253,Chennai Super Kings,176,2011-05-12
+501253,Delhi Capitals,158,2011-05-12
+501254,Kochi Tuskers Kerala,178,2011-05-13
+501254,Punjab Kings,181,2011-05-13
+501255,Kolkata Knight Riders,89,2011-05-14
+501255,Royal Challengers Bangalore,105,2011-05-14
+501256,Mumbai Indians,125,2011-05-14
+501256,Sunrisers Hyderabad,135,2011-05-14
+501257,Delhi Capitals,141,2011-05-15
+501257,Punjab Kings,170,2011-05-15
+501258,Kochi Tuskers Kerala,98,2011-05-15
+501258,Rajasthan Royals,97,2011-05-15
+501259,Pune Warriors,136,2011-05-16
+501259,Sunrisers Hyderabad,138,2011-05-16
+501260,Punjab Kings,232,2011-05-17
+501260,Royal Challengers Bangalore,121,2011-05-17
+501261,Chennai Super Kings,152,2011-05-18
+501261,Kochi Tuskers Kerala,141,2011-05-18
+501262,Kolkata Knight Riders,119,2011-05-19
+501262,Pune Warriors,118,2011-05-19
+501263,Mumbai Indians,133,2011-05-20
+501263,Rajasthan Royals,134,2011-05-20
+501264,Punjab Kings,116,2011-05-21
+501264,Sunrisers Hyderabad,198,2011-05-21
+501265,Delhi Capitals,56,2011-05-21
+501266,Chennai Super Kings,128,2011-05-22
+501266,Royal Challengers Bangalore,129,2011-05-22
+501267,Kolkata Knight Riders,175,2011-05-22
+501267,Mumbai Indians,178,2011-05-22
+501268,Chennai Super Kings,177,2011-05-24
+501268,Royal Challengers Bangalore,175,2011-05-24
+501269,Kolkata Knight Riders,147,2011-05-25
+501269,Mumbai Indians,148,2011-05-25
+501270,Mumbai Indians,142,2011-05-27
+501270,Royal Challengers Bangalore,185,2011-05-27
+501271,Chennai Super Kings,205,2011-05-28
+501271,Royal Challengers Bangalore,147,2011-05-28
+548306,Chennai Super Kings,112,2012-04-04
+548306,Mumbai Indians,115,2012-04-04
+548307,Delhi Capitals,100,2012-04-05
+548307,Kolkata Knight Riders,97,2012-04-05
+548308,Mumbai Indians,101,2012-04-06
+548308,Pune Warriors,129,2012-04-06
+548309,Punjab Kings,160,2012-04-06
+548309,Rajasthan Royals,191,2012-04-06
+548310,Delhi Capitals,137,2012-04-07
+548310,Royal Challengers Bangalore,157,2012-04-07
+548311,Chennai Super Kings,193,2012-04-07
+548311,Sunrisers Hyderabad,119,2012-04-07
+548312,Kolkata Knight Riders,142,2012-04-08
+548312,Rajasthan Royals,164,2012-04-08
+548313,Pune Warriors,166,2012-04-08
+548313,Punjab Kings,144,2012-04-08
+548314,Mumbai Indians,142,2012-04-09
+548314,Sunrisers Hyderabad,138,2012-04-09
+548315,Kolkata Knight Riders,165,2012-04-10
+548315,Royal Challengers Bangalore,123,2012-04-10
+548316,Chennai Super Kings,110,2012-04-10
+548316,Delhi Capitals,111,2012-04-10
+548317,Mumbai Indians,197,2012-04-11
+548317,Rajasthan Royals,170,2012-04-11
+548318,Chennai Super Kings,208,2012-04-12
+548318,Royal Challengers Bangalore,205,2012-04-12
+548319,Pune Warriors,115,2012-04-12
+548319,Punjab Kings,116,2012-04-12
+548320,Kolkata Knight Riders,137,2012-04-13
+548320,Rajasthan Royals,131,2012-04-13
+548321,Delhi Capitals,162,2012-04-19
+548321,Sunrisers Hyderabad,157,2012-04-19
+548322,Chennai Super Kings,155,2012-04-14
+548322,Pune Warriors,156,2012-04-14
+548323,Kolkata Knight Riders,132,2012-04-15
+548323,Punjab Kings,134,2012-04-15
+548324,Rajasthan Royals,195,2012-04-15
+548324,Royal Challengers Bangalore,136,2012-04-15
+548325,Delhi Capitals,93,2012-04-16
+548325,Mumbai Indians,92,2012-04-16
+548326,Rajasthan Royals,197,2012-04-17
+548326,Sunrisers Hyderabad,196,2012-04-17
+548327,Pune Warriors,182,2012-04-17
+548327,Royal Challengers Bangalore,186,2012-04-17
+548328,Kolkata Knight Riders,127,2012-04-18
+548328,Punjab Kings,124,2012-04-18
+548329,Delhi Capitals,193,2012-05-10
+548329,Sunrisers Hyderabad,187,2012-05-10
+548330,Chennai Super Kings,164,2012-04-19
+548330,Pune Warriors,151,2012-04-19
+548331,Punjab Kings,163,2012-04-20
+548331,Royal Challengers Bangalore,166,2012-04-20
+548332,Chennai Super Kings,147,2012-04-21
+548332,Rajasthan Royals,146,2012-04-21
+548333,Delhi Capitals,172,2012-04-21
+548333,Pune Warriors,192,2012-04-21
+548334,Mumbai Indians,163,2012-04-22
+548334,Punjab Kings,164,2012-04-22
+548335,Kolkata Knight Riders,127,2012-04-22
+548335,Sunrisers Hyderabad,126,2012-04-22
+548336,Rajasthan Royals,143,2012-04-23
+548336,Royal Challengers Bangalore,189,2012-04-23
+548337,Delhi Capitals,148,2012-04-24
+548337,Pune Warriors,146,2012-04-24
+548339,Mumbai Indians,171,2012-04-25
+548339,Punjab Kings,168,2012-04-25
+548341,Pune Warriors,159,2012-04-26
+548341,Sunrisers Hyderabad,177,2012-04-26
+548342,Delhi Capitals,207,2012-04-27
+548342,Mumbai Indians,170,2012-04-27
+548343,Chennai Super Kings,149,2012-04-28
+548343,Punjab Kings,156,2012-04-28
+548344,Kolkata Knight Riders,190,2012-04-28
+548344,Royal Challengers Bangalore,143,2012-04-28
+548345,Delhi Capitals,152,2012-04-29
+548345,Rajasthan Royals,151,2012-04-29
+548346,Mumbai Indians,101,2012-04-29
+548346,Sunrisers Hyderabad,100,2012-04-29
+548347,Chennai Super Kings,139,2012-04-30
+548347,Kolkata Knight Riders,140,2012-04-30
+548348,Pune Warriors,173,2012-05-01
+548348,Sunrisers Hyderabad,186,2012-05-01
+548349,Delhi Capitals,144,2012-05-01
+548349,Rajasthan Royals,141,2012-05-01
+548350,Punjab Kings,163,2012-05-02
+548350,Royal Challengers Bangalore,158,2012-05-02
+548351,Mumbai Indians,120,2012-05-03
+548351,Pune Warriors,119,2012-05-03
+548352,Chennai Super Kings,160,2012-05-04
+548352,Sunrisers Hyderabad,150,2012-05-04
+548353,Kolkata Knight Riders,150,2012-05-05
+548353,Pune Warriors,143,2012-05-05
+548354,Punjab Kings,134,2012-05-05
+548354,Rajasthan Royals,177,2012-05-05
+548355,Chennai Super Kings,173,2012-05-06
+548355,Mumbai Indians,174,2012-05-06
+548356,Royal Challengers Bangalore,185,2012-05-06
+548356,Sunrisers Hyderabad,181,2012-05-06
+548357,Delhi Capitals,153,2012-05-07
+548357,Kolkata Knight Riders,154,2012-05-07
+548358,Pune Warriors,125,2012-05-08
+548358,Rajasthan Royals,126,2012-05-08
+548359,Punjab Kings,170,2012-05-08
+548359,Sunrisers Hyderabad,145,2012-05-08
+548360,Mumbai Indians,141,2012-05-09
+548360,Royal Challengers Bangalore,142,2012-05-09
+548361,Chennai Super Kings,127,2012-05-10
+548361,Rajasthan Royals,126,2012-05-10
+548362,Pune Warriors,138,2012-05-11
+548362,Royal Challengers Bangalore,173,2012-05-11
+548363,Kolkata Knight Riders,155,2012-05-12
+548363,Mumbai Indians,182,2012-05-12
+548364,Chennai Super Kings,115,2012-05-12
+548364,Delhi Capitals,114,2012-05-12
+548365,Pune Warriors,125,2012-05-13
+548365,Rajasthan Royals,170,2012-05-13
+548366,Punjab Kings,194,2012-05-13
+548366,Sunrisers Hyderabad,190,2012-05-13
+548367,Mumbai Indians,173,2012-05-14
+548367,Royal Challengers Bangalore,171,2012-05-14
+548368,Chennai Super Kings,160,2012-05-14
+548368,Kolkata Knight Riders,158,2012-05-14
+548369,Delhi Capitals,140,2012-05-15
+548369,Punjab Kings,136,2012-05-15
+548370,Kolkata Knight Riders,140,2012-05-16
+548370,Mumbai Indians,108,2012-05-16
+548371,Chennai Super Kings,120,2012-05-17
+548371,Punjab Kings,123,2012-05-17
+548372,Delhi Capitals,194,2012-05-17
+548372,Royal Challengers Bangalore,215,2012-05-17
+548373,Rajasthan Royals,126,2012-05-18
+548373,Sunrisers Hyderabad,128,2012-05-18
+548374,Delhi Capitals,145,2012-05-19
+548374,Punjab Kings,141,2012-05-19
+548375,Kolkata Knight Riders,136,2012-05-19
+548375,Pune Warriors,102,2012-05-19
+548376,Royal Challengers Bangalore,123,2012-05-20
+548376,Sunrisers Hyderabad,132,2012-05-20
+548377,Mumbai Indians,163,2012-05-20
+548377,Rajasthan Royals,162,2012-05-20
+548378,Delhi Capitals,144,2012-05-22
+548378,Kolkata Knight Riders,162,2012-05-22
+548379,Chennai Super Kings,187,2012-05-23
+548379,Mumbai Indians,149,2012-05-23
+548380,Chennai Super Kings,222,2012-05-25
+548380,Delhi Capitals,136,2012-05-25
+548381,Chennai Super Kings,190,2012-05-27
+548381,Kolkata Knight Riders,192,2012-05-27
+597998,Delhi Capitals,128,2013-04-03
+597998,Kolkata Knight Riders,129,2013-04-03
+597999,Mumbai Indians,154,2013-04-04
+597999,Royal Challengers Bangalore,156,2013-04-04
+598000,Pune Warriors,104,2013-04-05
+598000,Sunrisers Hyderabad,126,2013-04-05
+598001,Delhi Capitals,160,2013-04-06
+598001,Rajasthan Royals,165,2013-04-06
+598002,Chennai Super Kings,139,2013-04-06
+598002,Mumbai Indians,148,2013-04-06
+598003,Pune Warriors,99,2013-04-07
+598003,Punjab Kings,100,2013-04-07
+598004,Royal Challengers Bangalore,145,2013-04-07
+598004,Sunrisers Hyderabad,150,2013-04-07
+598005,Kolkata Knight Riders,125,2013-04-08
+598005,Rajasthan Royals,144,2013-04-08
+598006,Delhi Capitals,165,2013-04-09
+598006,Mumbai Indians,209,2013-04-09
+598007,Chennai Super Kings,139,2013-04-10
+598007,Punjab Kings,138,2013-04-10
+598008,Kolkata Knight Riders,154,2013-04-11
+598008,Royal Challengers Bangalore,158,2013-04-11
+598009,Pune Warriors,148,2013-04-11
+598009,Rajasthan Royals,145,2013-04-11
+598010,Delhi Capitals,114,2013-04-12
+598010,Sunrisers Hyderabad,115,2013-04-12
+598011,Mumbai Indians,183,2013-04-13
+598011,Pune Warriors,142,2013-04-13
+598012,Chennai Super Kings,166,2013-04-13
+598012,Royal Challengers Bangalore,165,2013-04-13
+598013,Kolkata Knight Riders,180,2013-04-14
+598013,Sunrisers Hyderabad,132,2013-04-14
+598014,Punjab Kings,124,2013-04-14
+598014,Rajasthan Royals,126,2013-04-14
+598015,Chennai Super Kings,135,2013-04-15
+598015,Pune Warriors,159,2013-04-15
+598016,Kolkata Knight Riders,153,2013-04-16
+598016,Punjab Kings,157,2013-04-16
+598017,Delhi Capitals,163,2013-04-16
+598017,Royal Challengers Bangalore,167,2013-04-16
+598018,Pune Warriors,108,2013-04-17
+598018,Sunrisers Hyderabad,119,2013-04-17
+598019,Mumbai Indians,92,2013-04-17
+598019,Rajasthan Royals,179,2013-04-17
+598020,Chennai Super Kings,169,2013-04-18
+598020,Delhi Capitals,83,2013-04-18
+598021,Punjab Kings,123,2013-04-19
+598021,Sunrisers Hyderabad,127,2013-04-19
+598022,Chennai Super Kings,124,2013-04-20
+598022,Kolkata Knight Riders,119,2013-04-20
+598023,Rajasthan Royals,117,2013-04-20
+598023,Royal Challengers Bangalore,123,2013-04-20
+598024,Delhi Capitals,165,2013-04-21
+598024,Mumbai Indians,161,2013-04-21
+598025,Pune Warriors,185,2013-04-21
+598025,Punjab Kings,186,2013-04-21
+598026,Chennai Super Kings,186,2013-04-22
+598026,Rajasthan Royals,185,2013-04-22
+598027,Pune Warriors,133,2013-04-23
+598027,Royal Challengers Bangalore,263,2013-04-23
+598028,Delhi Capitals,164,2013-05-16
+598028,Punjab Kings,171,2013-05-16
+598029,Kolkata Knight Riders,159,2013-04-24
+598029,Mumbai Indians,162,2013-04-24
+598030,Chennai Super Kings,160,2013-04-25
+598030,Sunrisers Hyderabad,159,2013-04-25
+598031,Kolkata Knight Riders,150,2013-04-26
+598031,Punjab Kings,149,2013-04-26
+598032,Rajasthan Royals,146,2013-04-27
+598032,Sunrisers Hyderabad,144,2013-04-27
+598033,Mumbai Indians,194,2013-04-27
+598033,Royal Challengers Bangalore,136,2013-04-27
+598034,Chennai Super Kings,200,2013-04-28
+598034,Kolkata Knight Riders,186,2013-04-28
+598035,Delhi Capitals,164,2013-04-28
+598035,Pune Warriors,149,2013-04-28
+598036,Rajasthan Royals,173,2013-04-29
+598036,Royal Challengers Bangalore,171,2013-04-29
+598037,Mumbai Indians,174,2013-04-29
+598037,Punjab Kings,170,2013-04-29
+598038,Chennai Super Kings,164,2013-04-30
+598038,Pune Warriors,127,2013-04-30
+598039,Mumbai Indians,129,2013-05-01
+598039,Sunrisers Hyderabad,130,2013-05-01
+598040,Delhi Capitals,137,2013-05-01
+598040,Kolkata Knight Riders,136,2013-05-01
+598041,Chennai Super Kings,186,2013-05-02
+598041,Punjab Kings,171,2013-05-02
+598042,Pune Warriors,170,2013-05-02
+598042,Royal Challengers Bangalore,187,2013-05-02
+598043,Kolkata Knight Riders,133,2013-05-03
+598043,Rajasthan Royals,132,2013-05-03
+598044,Delhi Capitals,80,2013-05-04
+598044,Sunrisers Hyderabad,81,2013-05-04
+598045,Punjab Kings,176,2013-05-14
+598045,Royal Challengers Bangalore,174,2013-05-14
+598046,Chennai Super Kings,79,2013-05-05
+598046,Mumbai Indians,139,2013-05-05
+598047,Pune Warriors,178,2013-05-05
+598047,Rajasthan Royals,182,2013-05-05
+598048,Royal Challengers Bangalore,162,2013-04-09
+598048,Sunrisers Hyderabad,161,2013-04-09
+598049,Delhi Capitals,154,2013-05-07
+598049,Rajasthan Royals,155,2013-05-07
+598050,Kolkata Knight Riders,105,2013-05-07
+598050,Mumbai Indians,170,2013-05-07
+598051,Chennai Super Kings,223,2013-05-08
+598051,Sunrisers Hyderabad,146,2013-05-08
+598052,Punjab Kings,145,2013-05-09
+598052,Rajasthan Royals,147,2013-05-09
+598053,Kolkata Knight Riders,152,2013-05-09
+598053,Pune Warriors,106,2013-05-09
+598054,Delhi Capitals,179,2013-05-10
+598054,Royal Challengers Bangalore,183,2013-05-10
+598055,Mumbai Indians,116,2013-05-11
+598055,Pune Warriors,112,2013-05-11
+598056,Punjab Kings,120,2013-05-11
+598056,Sunrisers Hyderabad,150,2013-05-11
+598057,Kolkata Knight Riders,116,2013-05-12
+598057,Royal Challengers Bangalore,115,2013-05-12
+598058,Chennai Super Kings,141,2013-05-12
+598058,Rajasthan Royals,144,2013-05-12
+598059,Delhi Capitals,120,2013-04-23
+598059,Punjab Kings,121,2013-04-23
+598060,Mumbai Indians,184,2013-05-13
+598060,Sunrisers Hyderabad,178,2013-05-13
+598061,Kolkata Knight Riders,163,2013-05-15
+598061,Pune Warriors,170,2013-05-15
+598062,Chennai Super Kings,168,2013-05-14
+598062,Delhi Capitals,135,2013-05-14
+598063,Mumbai Indians,166,2013-05-15
+598063,Rajasthan Royals,152,2013-05-15
+598064,Punjab Kings,194,2013-05-06
+598064,Royal Challengers Bangalore,190,2013-05-06
+598065,Rajasthan Royals,113,2013-05-17
+598065,Sunrisers Hyderabad,136,2013-05-17
+598066,Mumbai Indians,133,2013-05-18
+598066,Punjab Kings,183,2013-05-18
+598067,Delhi Capitals,134,2013-05-19
+598067,Pune Warriors,172,2013-05-19
+598068,Chennai Super Kings,82,2013-05-18
+598068,Royal Challengers Bangalore,106,2013-05-18
+598069,Kolkata Knight Riders,130,2013-05-19
+598069,Sunrisers Hyderabad,132,2013-05-19
+598070,Chennai Super Kings,192,2013-05-21
+598070,Mumbai Indians,144,2013-05-21
+598071,Rajasthan Royals,135,2013-05-22
+598071,Sunrisers Hyderabad,132,2013-05-22
+598072,Mumbai Indians,169,2013-05-24
+598072,Rajasthan Royals,165,2013-05-24
+598073,Chennai Super Kings,125,2013-05-26
+598073,Mumbai Indians,148,2013-05-26
+729279,Kolkata Knight Riders,163,2014-04-16
+729279,Mumbai Indians,122,2014-04-16
+729281,Delhi Capitals,145,2014-04-17
+729281,Royal Challengers Bangalore,146,2014-04-17
+729283,Chennai Super Kings,205,2014-04-18
+729283,Punjab Kings,206,2014-04-18
+729285,Rajasthan Royals,135,2014-04-18
+729285,Sunrisers Hyderabad,133,2014-04-18
+729287,Mumbai Indians,115,2014-04-19
+729287,Royal Challengers Bangalore,116,2014-04-19
+729289,Delhi Capitals,167,2014-04-19
+729289,Kolkata Knight Riders,166,2014-04-19
+729291,Punjab Kings,193,2014-04-20
+729291,Rajasthan Royals,191,2014-04-20
+729293,Chennai Super Kings,177,2014-04-21
+729293,Delhi Capitals,84,2014-04-21
+729295,Punjab Kings,193,2014-04-22
+729295,Sunrisers Hyderabad,121,2014-04-22
+729297,Chennai Super Kings,140,2014-04-23
+729297,Rajasthan Royals,133,2014-04-23
+729299,Kolkata Knight Riders,150,2014-04-24
+729299,Royal Challengers Bangalore,148,2014-04-24
+729301,Delhi Capitals,180,2014-04-25
+729301,Sunrisers Hyderabad,184,2014-04-25
+729303,Chennai Super Kings,142,2014-04-25
+729303,Mumbai Indians,141,2014-04-25
+729305,Rajasthan Royals,71,2014-04-26
+729305,Royal Challengers Bangalore,70,2014-04-26
+729307,Kolkata Knight Riders,109,2014-04-26
+729307,Punjab Kings,132,2014-04-26
+729309,Delhi Capitals,126,2014-04-27
+729309,Mumbai Indians,125,2014-04-27
+729311,Chennai Super Kings,146,2014-04-27
+729311,Sunrisers Hyderabad,145,2014-04-27
+729313,Punjab Kings,127,2014-04-28
+729313,Royal Challengers Bangalore,124,2014-04-28
+729315,Kolkata Knight Riders,163,2014-04-29
+729315,Rajasthan Royals,163,2014-04-29
+729317,Mumbai Indians,157,2014-04-30
+729317,Sunrisers Hyderabad,172,2014-04-30
+733971,Chennai Super Kings,148,2014-05-02
+733971,Kolkata Knight Riders,114,2014-05-02
+733973,Mumbai Indians,170,2014-05-03
+733973,Punjab Kings,168,2014-05-03
+733975,Delhi Capitals,152,2014-05-03
+733975,Rajasthan Royals,156,2014-05-03
+733977,Royal Challengers Bangalore,158,2014-05-04
+733977,Sunrisers Hyderabad,155,2014-05-04
+733979,Kolkata Knight Riders,160,2014-05-05
+733979,Rajasthan Royals,170,2014-05-05
+733981,Chennai Super Kings,181,2014-05-05
+733981,Delhi Capitals,178,2014-05-05
+733983,Mumbai Indians,187,2014-05-06
+733983,Royal Challengers Bangalore,168,2014-05-06
+733985,Delhi Capitals,160,2014-05-07
+733985,Kolkata Knight Riders,161,2014-05-07
+733987,Chennai Super Kings,187,2014-05-07
+733987,Punjab Kings,231,2014-05-07
+733989,Rajasthan Royals,102,2014-05-08
+733989,Sunrisers Hyderabad,134,2014-05-08
+733991,Punjab Kings,198,2014-05-09
+733991,Royal Challengers Bangalore,166,2014-05-09
+733993,Delhi Capitals,143,2014-05-10
+733993,Sunrisers Hyderabad,44,2014-05-10
+733995,Chennai Super Kings,160,2014-05-10
+733995,Mumbai Indians,157,2014-05-10
+733997,Kolkata Knight Riders,150,2014-05-11
+733997,Punjab Kings,149,2014-05-11
+733999,Rajasthan Royals,191,2014-05-11
+733999,Royal Challengers Bangalore,190,2014-05-11
+734001,Mumbai Indians,160,2014-05-12
+734001,Sunrisers Hyderabad,157,2014-05-12
+734003,Chennai Super Kings,149,2014-05-13
+734003,Rajasthan Royals,148,2014-05-13
+734005,Delhi Capitals,170,2014-05-13
+734005,Royal Challengers Bangalore,186,2014-05-13
+734007,Punjab Kings,211,2014-05-14
+734007,Sunrisers Hyderabad,205,2014-05-14
+734009,Kolkata Knight Riders,142,2014-05-14
+734009,Mumbai Indians,141,2014-05-14
+734011,Delhi Capitals,139,2014-05-15
+734011,Rajasthan Royals,201,2014-05-15
+734013,Chennai Super Kings,138,2014-05-18
+734013,Royal Challengers Bangalore,142,2014-05-18
+734015,Kolkata Knight Riders,146,2014-05-18
+734015,Sunrisers Hyderabad,142,2014-05-18
+734017,Mumbai Indians,178,2014-05-19
+734017,Rajasthan Royals,153,2014-05-19
+734019,Delhi Capitals,164,2014-05-19
+734019,Punjab Kings,165,2014-05-19
+734021,Royal Challengers Bangalore,160,2014-05-20
+734021,Sunrisers Hyderabad,161,2014-05-20
+734023,Chennai Super Kings,154,2014-05-20
+734023,Kolkata Knight Riders,156,2014-05-20
+734025,Mumbai Indians,159,2014-05-21
+734025,Punjab Kings,156,2014-05-21
+734027,Kolkata Knight Riders,195,2014-05-22
+734027,Royal Challengers Bangalore,165,2014-05-22
+734029,Chennai Super Kings,185,2014-05-22
+734029,Sunrisers Hyderabad,189,2014-05-22
+734031,Delhi Capitals,158,2014-05-23
+734031,Mumbai Indians,173,2014-05-23
+734033,Punjab Kings,179,2014-05-23
+734033,Rajasthan Royals,163,2014-05-23
+734035,Chennai Super Kings,160,2014-05-24
+734035,Royal Challengers Bangalore,154,2014-05-24
+734037,Kolkata Knight Riders,161,2014-05-24
+734037,Sunrisers Hyderabad,160,2014-05-24
+734039,Delhi Capitals,115,2014-05-25
+734039,Punjab Kings,119,2014-05-25
+734041,Mumbai Indians,195,2014-05-25
+734041,Rajasthan Royals,189,2014-05-25
+734043,Kolkata Knight Riders,163,2014-05-27
+734043,Punjab Kings,135,2014-05-27
+734045,Chennai Super Kings,176,2014-05-28
+734045,Mumbai Indians,173,2014-05-28
+734047,Chennai Super Kings,202,2014-05-30
+734047,Punjab Kings,226,2014-05-30
+734049,Kolkata Knight Riders,200,2014-06-01
+734049,Punjab Kings,199,2014-06-01
+829705,Kolkata Knight Riders,170,2015-04-08
+829705,Mumbai Indians,168,2015-04-08
+829707,Chennai Super Kings,150,2015-04-09
+829707,Delhi Capitals,149,2015-04-09
+829709,Punjab Kings,136,2015-04-10
+829709,Rajasthan Royals,162,2015-04-10
+829711,Chennai Super Kings,209,2015-04-11
+829711,Sunrisers Hyderabad,164,2015-04-11
+829713,Kolkata Knight Riders,177,2015-04-11
+829713,Royal Challengers Bangalore,179,2015-04-11
+829715,Delhi Capitals,184,2015-04-12
+829715,Rajasthan Royals,186,2015-04-12
+829717,Mumbai Indians,159,2015-04-12
+829717,Punjab Kings,177,2015-04-12
+829719,Royal Challengers Bangalore,166,2015-04-13
+829719,Sunrisers Hyderabad,172,2015-04-13
+829721,Mumbai Indians,164,2015-04-14
+829721,Rajasthan Royals,165,2015-04-14
+829723,Chennai Super Kings,165,2015-04-30
+829723,Kolkata Knight Riders,169,2015-04-30
+829725,Delhi Capitals,169,2015-04-15
+829725,Punjab Kings,165,2015-04-15
+829727,Rajasthan Royals,131,2015-04-16
+829727,Sunrisers Hyderabad,127,2015-04-16
+829729,Chennai Super Kings,189,2015-04-17
+829729,Mumbai Indians,183,2015-04-17
+829731,Delhi Capitals,167,2015-04-18
+829731,Sunrisers Hyderabad,163,2015-04-18
+829733,Kolkata Knight Riders,159,2015-04-18
+829733,Punjab Kings,155,2015-04-18
+829735,Chennai Super Kings,156,2015-04-19
+829735,Rajasthan Royals,157,2015-04-19
+829737,Mumbai Indians,209,2015-04-19
+829737,Royal Challengers Bangalore,191,2015-04-19
+829739,Delhi Capitals,146,2015-04-20
+829739,Kolkata Knight Riders,147,2015-04-20
+829741,Punjab Kings,206,2015-04-21
+829741,Rajasthan Royals,197,2015-04-21
+829743,Kolkata Knight Riders,101,2015-04-22
+829743,Sunrisers Hyderabad,176,2015-04-22
+829745,Chennai Super Kings,181,2015-04-22
+829745,Royal Challengers Bangalore,154,2015-04-22
+829747,Delhi Capitals,190,2015-04-23
+829747,Mumbai Indians,153,2015-04-23
+829749,Rajasthan Royals,130,2015-04-24
+829749,Royal Challengers Bangalore,134,2015-04-24
+829751,Mumbai Indians,157,2015-04-25
+829751,Sunrisers Hyderabad,137,2015-04-25
+829753,Chennai Super Kings,192,2015-04-25
+829753,Punjab Kings,95,2015-04-25
+829757,Delhi Capitals,95,2015-04-26
+829757,Royal Challengers Bangalore,99,2015-04-26
+829759,Punjab Kings,130,2015-04-27
+829759,Sunrisers Hyderabad,150,2015-04-27
+829761,Delhi Capitals,158,2015-05-07
+829761,Kolkata Knight Riders,171,2015-05-07
+829763,Royal Challengers Bangalore,200,2015-04-29
+829765,Chennai Super Kings,134,2015-04-28
+829765,Kolkata Knight Riders,132,2015-04-28
+829767,Delhi Capitals,119,2015-05-01
+829767,Punjab Kings,118,2015-05-01
+829769,Mumbai Indians,187,2015-05-01
+829769,Rajasthan Royals,179,2015-05-01
+829771,Kolkata Knight Riders,111,2015-05-02
+829771,Royal Challengers Bangalore,115,2015-05-02
+829773,Chennai Super Kings,170,2015-05-02
+829773,Sunrisers Hyderabad,192,2015-05-02
+829775,Mumbai Indians,172,2015-05-03
+829775,Punjab Kings,149,2015-05-03
+829777,Delhi Capitals,175,2015-05-03
+829777,Rajasthan Royals,189,2015-05-03
+829779,Chennai Super Kings,148,2015-05-04
+829779,Royal Challengers Bangalore,124,2015-05-04
+829781,Kolkata Knight Riders,167,2015-05-04
+829781,Sunrisers Hyderabad,132,2015-05-04
+829783,Delhi Capitals,152,2015-05-05
+829783,Mumbai Indians,153,2015-05-05
+829785,Punjab Kings,88,2015-05-06
+829785,Royal Challengers Bangalore,226,2015-05-06
+829787,Rajasthan Royals,194,2015-05-07
+829787,Sunrisers Hyderabad,201,2015-05-07
+829789,Chennai Super Kings,158,2015-05-08
+829789,Mumbai Indians,159,2015-05-08
+829791,Kolkata Knight Riders,184,2015-05-09
+829791,Punjab Kings,183,2015-05-09
+829793,Delhi Capitals,157,2015-05-09
+829793,Sunrisers Hyderabad,163,2015-05-09
+829795,Mumbai Indians,196,2015-05-10
+829795,Royal Challengers Bangalore,235,2015-05-10
+829797,Chennai Super Kings,157,2015-05-10
+829797,Rajasthan Royals,145,2015-05-10
+829799,Punjab Kings,180,2015-05-11
+829799,Sunrisers Hyderabad,185,2015-05-11
+829801,Chennai Super Kings,119,2015-05-12
+829801,Delhi Capitals,120,2015-05-12
+829803,Punjab Kings,106,2015-05-13
+829803,Royal Challengers Bangalore,84,2015-05-13
+829805,Kolkata Knight Riders,166,2015-05-14
+829805,Mumbai Indians,171,2015-05-14
+829807,Royal Challengers Bangalore,83,2015-05-15
+829807,Sunrisers Hyderabad,135,2015-05-15
+829809,Chennai Super Kings,134,2015-05-16
+829809,Punjab Kings,130,2015-05-16
+829811,Kolkata Knight Riders,190,2015-05-16
+829811,Rajasthan Royals,199,2015-05-16
+829813,Delhi Capitals,187,2015-05-17
+829813,Royal Challengers Bangalore,2,2015-05-17
+829815,Mumbai Indians,114,2015-05-17
+829815,Sunrisers Hyderabad,113,2015-05-17
+829817,Chennai Super Kings,162,2015-05-19
+829817,Mumbai Indians,187,2015-05-19
+829819,Rajasthan Royals,109,2015-05-20
+829819,Royal Challengers Bangalore,180,2015-05-20
+829821,Chennai Super Kings,140,2015-05-22
+829821,Royal Challengers Bangalore,139,2015-05-22
+829823,Chennai Super Kings,161,2015-05-24
+829823,Mumbai Indians,202,2015-05-24
+980901,Mumbai Indians,121,2016-04-09
+980901,Rising Pune Supergiant,126,2016-04-09
+980903,Delhi Capitals,98,2016-04-10
+980903,Kolkata Knight Riders,99,2016-04-10
+980905,Gujarat Lions,162,2016-04-11
+980905,Punjab Kings,161,2016-04-11
+980907,Royal Challengers Bangalore,227,2016-04-12
+980907,Sunrisers Hyderabad,182,2016-04-12
+980909,Kolkata Knight Riders,187,2016-04-13
+980909,Mumbai Indians,188,2016-04-13
+980911,Gujarat Lions,164,2016-04-14
+980911,Rising Pune Supergiant,163,2016-04-14
+980913,Delhi Capitals,113,2016-04-15
+980913,Punjab Kings,111,2016-04-15
+980915,Kolkata Knight Riders,146,2016-04-16
+980915,Sunrisers Hyderabad,142,2016-04-16
+980917,Gujarat Lions,147,2016-04-16
+980917,Mumbai Indians,143,2016-04-16
+980919,Punjab Kings,153,2016-04-17
+980919,Rising Pune Supergiant,152,2016-04-17
+980921,Delhi Capitals,192,2016-04-17
+980921,Royal Challengers Bangalore,191,2016-04-17
+980923,Mumbai Indians,142,2016-04-18
+980923,Sunrisers Hyderabad,145,2016-04-18
+980925,Kolkata Knight Riders,141,2016-04-19
+980925,Punjab Kings,138,2016-04-19
+980927,Mumbai Indians,171,2016-04-20
+980927,Royal Challengers Bangalore,170,2016-04-20
+980929,Gujarat Lions,135,2016-04-21
+980929,Sunrisers Hyderabad,137,2016-04-21
+980931,Rising Pune Supergiant,172,2016-04-22
+980931,Royal Challengers Bangalore,185,2016-04-22
+980933,Delhi Capitals,164,2016-04-23
+980933,Mumbai Indians,154,2016-04-23
+980935,Punjab Kings,143,2016-04-23
+980935,Sunrisers Hyderabad,146,2016-04-23
+980937,Gujarat Lions,182,2016-04-24
+980937,Royal Challengers Bangalore,180,2016-04-24
+980939,Kolkata Knight Riders,162,2016-04-24
+980939,Rising Pune Supergiant,160,2016-04-24
+980941,Mumbai Indians,189,2016-04-25
+980941,Punjab Kings,164,2016-04-25
+980943,Rising Pune Supergiant,94,2016-04-26
+980943,Sunrisers Hyderabad,118,2016-04-26
+980945,Delhi Capitals,171,2016-04-27
+980945,Gujarat Lions,172,2016-04-27
+980947,Kolkata Knight Riders,174,2016-04-28
+980947,Mumbai Indians,178,2016-04-28
+980949,Gujarat Lions,196,2016-04-29
+980949,Rising Pune Supergiant,195,2016-04-29
+980951,Delhi Capitals,186,2016-04-30
+980951,Kolkata Knight Riders,159,2016-04-30
+980953,Royal Challengers Bangalore,179,2016-04-30
+980953,Sunrisers Hyderabad,194,2016-04-30
+980955,Gujarat Lions,131,2016-05-01
+980955,Punjab Kings,154,2016-05-01
+980957,Mumbai Indians,161,2016-05-01
+980957,Rising Pune Supergiant,159,2016-05-01
+980959,Kolkata Knight Riders,189,2016-05-02
+980959,Royal Challengers Bangalore,185,2016-05-02
+980961,Delhi Capitals,150,2016-05-03
+980961,Gujarat Lions,149,2016-05-03
+980963,Kolkata Knight Riders,164,2016-05-04
+980963,Punjab Kings,157,2016-05-04
+980965,Delhi Capitals,162,2016-05-05
+980965,Rising Pune Supergiant,166,2016-05-05
+980967,Gujarat Lions,126,2016-05-06
+980967,Sunrisers Hyderabad,129,2016-05-06
+980969,Rising Pune Supergiant,191,2016-05-07
+980969,Royal Challengers Bangalore,195,2016-05-07
+980971,Delhi Capitals,172,2016-05-07
+980971,Punjab Kings,181,2016-05-07
+980973,Mumbai Indians,92,2016-05-08
+980973,Sunrisers Hyderabad,177,2016-05-08
+980975,Gujarat Lions,164,2016-05-08
+980975,Kolkata Knight Riders,158,2016-05-08
+980977,Punjab Kings,174,2016-05-09
+980977,Royal Challengers Bangalore,175,2016-05-09
+980979,Rising Pune Supergiant,133,2016-05-10
+980979,Sunrisers Hyderabad,137,2016-05-10
+980981,Mumbai Indians,153,2016-05-11
+980981,Royal Challengers Bangalore,151,2016-05-11
+980983,Delhi Capitals,150,2016-05-12
+980983,Sunrisers Hyderabad,146,2016-05-12
+980985,Mumbai Indians,124,2016-05-13
+980985,Punjab Kings,127,2016-05-13
+980987,Gujarat Lions,104,2016-05-14
+980987,Royal Challengers Bangalore,248,2016-05-14
+980989,Kolkata Knight Riders,66,2016-05-14
+980989,Rising Pune Supergiant,103,2016-05-14
+980991,Punjab Kings,179,2016-05-15
+980991,Sunrisers Hyderabad,180,2016-05-15
+980993,Delhi Capitals,126,2016-05-15
+980993,Mumbai Indians,206,2016-05-15
+980995,Kolkata Knight Riders,183,2016-05-16
+980995,Royal Challengers Bangalore,186,2016-05-16
+980997,Delhi Capitals,121,2016-05-17
+980997,Rising Pune Supergiant,76,2016-05-17
+980999,Punjab Kings,120,2016-05-18
+980999,Royal Challengers Bangalore,211,2016-05-18
+981001,Gujarat Lions,125,2016-05-19
+981001,Kolkata Knight Riders,124,2016-05-19
+981003,Delhi Capitals,161,2016-05-20
+981003,Sunrisers Hyderabad,158,2016-05-20
+981005,Punjab Kings,172,2016-05-21
+981005,Rising Pune Supergiant,173,2016-05-21
+981007,Gujarat Lions,173,2016-05-21
+981007,Mumbai Indians,172,2016-05-21
+981009,Kolkata Knight Riders,171,2016-05-22
+981009,Sunrisers Hyderabad,149,2016-05-22
+981011,Delhi Capitals,138,2016-05-22
+981011,Royal Challengers Bangalore,139,2016-05-22
+981013,Gujarat Lions,158,2016-05-24
+981013,Royal Challengers Bangalore,159,2016-05-24
+981015,Kolkata Knight Riders,140,2016-05-25
+981015,Sunrisers Hyderabad,162,2016-05-25
+981017,Gujarat Lions,162,2016-05-27
+981017,Sunrisers Hyderabad,163,2016-05-27
+981019,Royal Challengers Bangalore,200,2016-05-29
+981019,Sunrisers Hyderabad,208,2016-05-29
+1082591,Royal Challengers Bangalore,172,2017-04-05
+1082591,Sunrisers Hyderabad,207,2017-04-05
+1082592,Mumbai Indians,184,2017-04-06
+1082592,Rising Pune Supergiant,187,2017-04-06
+1082593,Gujarat Lions,183,2017-04-07
+1082593,Kolkata Knight Riders,184,2017-04-07
+1082594,Punjab Kings,164,2017-04-08
+1082594,Rising Pune Supergiant,163,2017-04-08
+1082595,Delhi Capitals,142,2017-04-08
+1082595,Royal Challengers Bangalore,157,2017-04-08
+1082596,Gujarat Lions,135,2017-04-09
+1082596,Sunrisers Hyderabad,140,2017-04-09
+1082597,Kolkata Knight Riders,178,2017-04-09
+1082597,Mumbai Indians,180,2017-04-09
+1082598,Punjab Kings,150,2017-04-10
+1082598,Royal Challengers Bangalore,148,2017-04-10
+1082599,Delhi Capitals,205,2017-04-11
+1082599,Rising Pune Supergiant,108,2017-04-11
+1082600,Mumbai Indians,159,2017-04-12
+1082600,Sunrisers Hyderabad,158,2017-04-12
+1082601,Kolkata Knight Riders,171,2017-04-13
+1082601,Punjab Kings,170,2017-04-13
+1082602,Mumbai Indians,145,2017-04-14
+1082602,Royal Challengers Bangalore,142,2017-04-14
+1082603,Gujarat Lions,172,2017-04-14
+1082603,Rising Pune Supergiant,171,2017-04-14
+1082604,Kolkata Knight Riders,172,2017-04-15
+1082604,Sunrisers Hyderabad,155,2017-04-15
+1082605,Delhi Capitals,188,2017-04-15
+1082605,Punjab Kings,137,2017-04-15
+1082606,Gujarat Lions,176,2017-04-16
+1082606,Mumbai Indians,177,2017-04-16
+1082607,Rising Pune Supergiant,161,2017-04-16
+1082607,Royal Challengers Bangalore,134,2017-04-16
+1082608,Delhi Capitals,168,2017-04-17
+1082608,Kolkata Knight Riders,169,2017-04-17
+1082609,Punjab Kings,154,2017-04-17
+1082609,Sunrisers Hyderabad,159,2017-04-17
+1082610,Gujarat Lions,192,2017-04-18
+1082610,Royal Challengers Bangalore,213,2017-04-18
+1082611,Delhi Capitals,176,2017-04-19
+1082611,Sunrisers Hyderabad,191,2017-04-19
+1082612,Mumbai Indians,199,2017-04-20
+1082612,Punjab Kings,198,2017-04-20
+1082613,Gujarat Lions,188,2017-04-21
+1082613,Kolkata Knight Riders,187,2017-04-21
+1082614,Delhi Capitals,128,2017-04-22
+1082614,Mumbai Indians,142,2017-04-22
+1082615,Rising Pune Supergiant,179,2017-04-22
+1082615,Sunrisers Hyderabad,176,2017-04-22
+1082616,Gujarat Lions,162,2017-04-23
+1082616,Punjab Kings,188,2017-04-23
+1082617,Kolkata Knight Riders,131,2017-04-23
+1082617,Royal Challengers Bangalore,49,2017-04-23
+1082618,Mumbai Indians,157,2017-04-24
+1082618,Rising Pune Supergiant,160,2017-04-24
+1082620,Kolkata Knight Riders,184,2017-04-26
+1082620,Rising Pune Supergiant,182,2017-04-26
+1082621,Gujarat Lions,135,2017-04-27
+1082621,Royal Challengers Bangalore,134,2017-04-27
+1082622,Delhi Capitals,160,2017-04-28
+1082622,Kolkata Knight Riders,161,2017-04-28
+1082623,Punjab Kings,181,2017-04-28
+1082623,Sunrisers Hyderabad,207,2017-04-28
+1082624,Rising Pune Supergiant,157,2017-04-29
+1082624,Royal Challengers Bangalore,96,2017-04-29
+1082625,Gujarat Lions,159,2017-04-29
+1082625,Mumbai Indians,164,2017-04-29
+1082626,Delhi Capitals,67,2017-04-30
+1082626,Punjab Kings,68,2017-04-30
+1082627,Kolkata Knight Riders,161,2017-04-30
+1082627,Sunrisers Hyderabad,209,2017-04-30
+1082628,Mumbai Indians,165,2017-05-01
+1082628,Royal Challengers Bangalore,162,2017-05-01
+1082629,Gujarat Lions,161,2017-05-01
+1082629,Rising Pune Supergiant,167,2017-05-01
+1082630,Delhi Capitals,189,2017-05-02
+1082630,Sunrisers Hyderabad,185,2017-05-02
+1082631,Kolkata Knight Riders,155,2017-05-03
+1082631,Rising Pune Supergiant,158,2017-05-03
+1082632,Delhi Capitals,214,2017-05-04
+1082632,Gujarat Lions,208,2017-05-04
+1082633,Punjab Kings,138,2017-05-05
+1082633,Royal Challengers Bangalore,119,2017-05-05
+1082634,Rising Pune Supergiant,148,2017-05-06
+1082634,Sunrisers Hyderabad,136,2017-05-06
+1082635,Delhi Capitals,66,2017-05-06
+1082635,Mumbai Indians,212,2017-05-06
+1082636,Kolkata Knight Riders,159,2017-05-07
+1082636,Royal Challengers Bangalore,158,2017-05-07
+1082637,Gujarat Lions,192,2017-05-07
+1082637,Punjab Kings,189,2017-05-07
+1082638,Mumbai Indians,138,2017-05-08
+1082638,Sunrisers Hyderabad,140,2017-05-08
+1082639,Kolkata Knight Riders,153,2017-05-09
+1082639,Punjab Kings,167,2017-05-09
+1082640,Delhi Capitals,197,2017-05-10
+1082640,Gujarat Lions,195,2017-05-10
+1082641,Mumbai Indians,223,2017-05-11
+1082641,Punjab Kings,230,2017-05-11
+1082642,Delhi Capitals,168,2017-05-12
+1082642,Rising Pune Supergiant,161,2017-05-12
+1082643,Gujarat Lions,154,2017-05-13
+1082643,Sunrisers Hyderabad,158,2017-05-13
+1082644,Kolkata Knight Riders,164,2017-05-13
+1082644,Mumbai Indians,173,2017-05-13
+1082645,Punjab Kings,73,2017-05-14
+1082645,Rising Pune Supergiant,78,2017-05-14
+1082646,Delhi Capitals,151,2017-05-14
+1082646,Royal Challengers Bangalore,161,2017-05-14
+1082647,Mumbai Indians,142,2017-05-16
+1082647,Rising Pune Supergiant,162,2017-05-16
+1082648,Kolkata Knight Riders,48,2017-05-17
+1082648,Sunrisers Hyderabad,128,2017-05-17
+1082649,Kolkata Knight Riders,107,2017-05-19
+1082649,Mumbai Indians,111,2017-05-19
+1082650,Mumbai Indians,129,2017-05-21
+1082650,Rising Pune Supergiant,128,2017-05-21
+1136561,Chennai Super Kings,169,2018-04-07
+1136561,Mumbai Indians,165,2018-04-07
+1136562,Delhi Capitals,166,2018-04-08
+1136562,Punjab Kings,167,2018-04-08
+1136563,Kolkata Knight Riders,177,2018-04-08
+1136563,Royal Challengers Bangalore,176,2018-04-08
+1136564,Rajasthan Royals,125,2018-04-09
+1136564,Sunrisers Hyderabad,127,2018-04-09
+1136565,Chennai Super Kings,205,2018-04-10
+1136565,Kolkata Knight Riders,202,2018-04-10
+1136566,Delhi Capitals,60,2018-04-11
+1136566,Rajasthan Royals,153,2018-04-11
+1136567,Mumbai Indians,147,2018-04-12
+1136567,Sunrisers Hyderabad,151,2018-04-12
+1136568,Punjab Kings,155,2018-04-13
+1136568,Royal Challengers Bangalore,159,2018-04-13
+1136569,Delhi Capitals,195,2018-04-14
+1136569,Mumbai Indians,194,2018-04-14
+1136570,Kolkata Knight Riders,138,2018-04-14
+1136570,Sunrisers Hyderabad,139,2018-04-14
+1136571,Rajasthan Royals,217,2018-04-15
+1136571,Royal Challengers Bangalore,198,2018-04-15
+1136572,Chennai Super Kings,193,2018-04-15
+1136572,Punjab Kings,197,2018-04-15
+1136573,Delhi Capitals,129,2018-04-16
+1136573,Kolkata Knight Riders,200,2018-04-16
+1136574,Mumbai Indians,213,2018-04-17
+1136574,Royal Challengers Bangalore,167,2018-04-17
+1136575,Kolkata Knight Riders,163,2018-04-18
+1136575,Rajasthan Royals,160,2018-04-18
+1136576,Punjab Kings,193,2018-04-19
+1136576,Sunrisers Hyderabad,178,2018-04-19
+1136577,Chennai Super Kings,204,2018-04-20
+1136577,Rajasthan Royals,140,2018-04-20
+1136578,Kolkata Knight Riders,191,2018-04-21
+1136578,Punjab Kings,126,2018-04-21
+1136579,Delhi Capitals,174,2018-04-21
+1136579,Royal Challengers Bangalore,176,2018-04-21
+1136580,Chennai Super Kings,182,2018-04-22
+1136580,Sunrisers Hyderabad,178,2018-04-22
+1136581,Mumbai Indians,167,2018-04-22
+1136581,Rajasthan Royals,168,2018-04-22
+1136582,Delhi Capitals,139,2018-04-23
+1136582,Punjab Kings,143,2018-04-23
+1136583,Mumbai Indians,87,2018-04-24
+1136583,Sunrisers Hyderabad,118,2018-04-24
+1136584,Chennai Super Kings,207,2018-04-25
+1136584,Royal Challengers Bangalore,205,2018-04-25
+1136585,Punjab Kings,119,2018-04-26
+1136585,Sunrisers Hyderabad,132,2018-04-26
+1136586,Delhi Capitals,219,2018-04-27
+1136586,Kolkata Knight Riders,164,2018-04-27
+1136587,Chennai Super Kings,169,2018-04-28
+1136587,Mumbai Indians,170,2018-04-28
+1136588,Rajasthan Royals,140,2018-04-29
+1136588,Sunrisers Hyderabad,151,2018-04-29
+1136589,Kolkata Knight Riders,176,2018-04-29
+1136589,Royal Challengers Bangalore,175,2018-04-29
+1136590,Chennai Super Kings,211,2018-04-30
+1136590,Delhi Capitals,198,2018-04-30
+1136591,Mumbai Indians,153,2018-05-01
+1136591,Royal Challengers Bangalore,167,2018-05-01
+1136592,Delhi Capitals,196,2018-05-02
+1136592,Rajasthan Royals,146,2018-05-02
+1136593,Chennai Super Kings,177,2018-05-03
+1136593,Kolkata Knight Riders,180,2018-05-03
+1136594,Mumbai Indians,176,2018-05-04
+1136594,Punjab Kings,174,2018-05-04
+1136595,Chennai Super Kings,128,2018-05-05
+1136595,Royal Challengers Bangalore,127,2018-05-05
+1136596,Delhi Capitals,163,2018-05-05
+1136596,Sunrisers Hyderabad,164,2018-05-05
+1136597,Kolkata Knight Riders,168,2018-05-06
+1136597,Mumbai Indians,181,2018-05-06
+1136598,Punjab Kings,155,2018-05-06
+1136598,Rajasthan Royals,152,2018-05-06
+1136599,Royal Challengers Bangalore,141,2018-05-07
+1136599,Sunrisers Hyderabad,146,2018-05-07
+1136600,Punjab Kings,143,2018-05-08
+1136600,Rajasthan Royals,158,2018-05-08
+1136601,Kolkata Knight Riders,108,2018-05-09
+1136601,Mumbai Indians,210,2018-05-09
+1136602,Delhi Capitals,187,2018-05-10
+1136602,Sunrisers Hyderabad,191,2018-05-10
+1136603,Chennai Super Kings,176,2018-05-11
+1136603,Rajasthan Royals,177,2018-05-11
+1136604,Kolkata Knight Riders,245,2018-05-12
+1136604,Punjab Kings,214,2018-05-12
+1136605,Delhi Capitals,181,2018-05-12
+1136605,Royal Challengers Bangalore,187,2018-05-12
+1136606,Chennai Super Kings,180,2018-05-13
+1136606,Sunrisers Hyderabad,179,2018-05-13
+1136607,Mumbai Indians,168,2018-05-13
+1136607,Rajasthan Royals,171,2018-05-13
+1136608,Punjab Kings,88,2018-05-14
+1136608,Royal Challengers Bangalore,92,2018-05-14
+1136609,Kolkata Knight Riders,145,2018-05-15
+1136609,Rajasthan Royals,142,2018-05-15
+1136610,Mumbai Indians,186,2018-05-16
+1136610,Punjab Kings,183,2018-05-16
+1136611,Royal Challengers Bangalore,218,2018-05-17
+1136611,Sunrisers Hyderabad,204,2018-05-17
+1136612,Chennai Super Kings,128,2018-05-18
+1136612,Delhi Capitals,162,2018-05-18
+1136613,Rajasthan Royals,164,2018-05-19
+1136613,Royal Challengers Bangalore,134,2018-05-19
+1136614,Kolkata Knight Riders,173,2018-05-19
+1136614,Sunrisers Hyderabad,172,2018-05-19
+1136615,Delhi Capitals,174,2018-05-20
+1136615,Mumbai Indians,163,2018-05-20
+1136616,Chennai Super Kings,159,2018-05-20
+1136616,Punjab Kings,153,2018-05-20
+1136617,Chennai Super Kings,140,2018-05-22
+1136617,Sunrisers Hyderabad,139,2018-05-22
+1136618,Kolkata Knight Riders,169,2018-05-23
+1136618,Rajasthan Royals,144,2018-05-23
+1136619,Kolkata Knight Riders,160,2018-05-25
+1136619,Sunrisers Hyderabad,174,2018-05-25
+1136620,Chennai Super Kings,181,2018-05-27
+1136620,Sunrisers Hyderabad,178,2018-05-27
+1175356,Chennai Super Kings,71,2019-03-23
+1175356,Royal Challengers Bangalore,70,2019-03-23
+1175357,Kolkata Knight Riders,183,2019-03-24
+1175357,Sunrisers Hyderabad,181,2019-03-24
+1175358,Delhi Capitals,213,2019-03-24
+1175358,Mumbai Indians,176,2019-03-24
+1175359,Punjab Kings,184,2019-03-25
+1175359,Rajasthan Royals,170,2019-03-25
+1175360,Chennai Super Kings,150,2019-03-26
+1175360,Delhi Capitals,147,2019-03-26
+1175361,Kolkata Knight Riders,218,2019-03-27
+1175361,Punjab Kings,190,2019-03-27
+1175362,Mumbai Indians,187,2019-03-28
+1175362,Royal Challengers Bangalore,181,2019-03-28
+1175363,Rajasthan Royals,198,2019-03-29
+1175363,Sunrisers Hyderabad,201,2019-03-29
+1175364,Mumbai Indians,176,2019-03-30
+1175364,Punjab Kings,177,2019-03-30
+1175365,Delhi Capitals,195,2019-03-30
+1175365,Kolkata Knight Riders,192,2019-03-30
+1175366,Royal Challengers Bangalore,113,2019-03-31
+1175366,Sunrisers Hyderabad,231,2019-03-31
+1175367,Chennai Super Kings,175,2019-03-31
+1175367,Rajasthan Royals,167,2019-03-31
+1175368,Delhi Capitals,152,2019-04-01
+1175368,Punjab Kings,166,2019-04-01
+1175369,Rajasthan Royals,164,2019-04-02
+1175369,Royal Challengers Bangalore,158,2019-04-02
+1175370,Chennai Super Kings,133,2019-04-03
+1175370,Mumbai Indians,170,2019-04-03
+1175371,Delhi Capitals,129,2019-04-04
+1175371,Sunrisers Hyderabad,131,2019-04-04
+1175372,Kolkata Knight Riders,206,2019-04-05
+1175372,Royal Challengers Bangalore,205,2019-04-05
+1178393,Chennai Super Kings,160,2019-04-06
+1178393,Punjab Kings,138,2019-04-06
+1178394,Mumbai Indians,136,2019-04-06
+1178394,Sunrisers Hyderabad,96,2019-04-06
+1178395,Delhi Capitals,152,2019-04-07
+1178395,Royal Challengers Bangalore,149,2019-04-07
+1178396,Kolkata Knight Riders,140,2019-04-07
+1178396,Rajasthan Royals,139,2019-04-07
+1178397,Punjab Kings,151,2019-04-08
+1178397,Sunrisers Hyderabad,150,2019-04-08
+1178398,Chennai Super Kings,111,2019-04-09
+1178398,Kolkata Knight Riders,108,2019-04-09
+1178399,Mumbai Indians,198,2019-04-10
+1178399,Punjab Kings,197,2019-04-10
+1178400,Chennai Super Kings,155,2019-04-11
+1178400,Rajasthan Royals,151,2019-04-11
+1178401,Delhi Capitals,180,2019-04-12
+1178401,Kolkata Knight Riders,178,2019-04-12
+1178402,Mumbai Indians,187,2019-04-13
+1178402,Rajasthan Royals,188,2019-04-13
+1178403,Punjab Kings,173,2019-04-13
+1178403,Royal Challengers Bangalore,174,2019-04-13
+1178404,Chennai Super Kings,162,2019-04-14
+1178404,Kolkata Knight Riders,161,2019-04-14
+1178405,Delhi Capitals,155,2019-04-14
+1178405,Sunrisers Hyderabad,116,2019-04-14
+1178406,Mumbai Indians,172,2019-04-15
+1178406,Royal Challengers Bangalore,171,2019-04-15
+1178407,Punjab Kings,182,2019-04-16
+1178407,Rajasthan Royals,170,2019-04-16
+1178408,Chennai Super Kings,132,2019-04-17
+1178408,Sunrisers Hyderabad,137,2019-04-17
+1178409,Delhi Capitals,128,2019-04-18
+1178409,Mumbai Indians,168,2019-04-18
+1178410,Kolkata Knight Riders,203,2019-04-19
+1178410,Royal Challengers Bangalore,213,2019-04-19
+1178411,Mumbai Indians,161,2019-04-20
+1178411,Rajasthan Royals,162,2019-04-20
+1178412,Delhi Capitals,166,2019-04-20
+1178412,Punjab Kings,163,2019-04-20
+1178413,Kolkata Knight Riders,159,2019-04-21
+1178413,Sunrisers Hyderabad,161,2019-04-21
+1178414,Chennai Super Kings,160,2019-04-21
+1178414,Royal Challengers Bangalore,161,2019-04-21
+1178415,Delhi Capitals,193,2019-04-22
+1178415,Rajasthan Royals,191,2019-04-22
+1178416,Chennai Super Kings,176,2019-04-23
+1178416,Sunrisers Hyderabad,175,2019-04-23
+1178417,Punjab Kings,185,2019-04-24
+1178417,Royal Challengers Bangalore,202,2019-04-24
+1178418,Kolkata Knight Riders,175,2019-04-25
+1178418,Rajasthan Royals,177,2019-04-25
+1178419,Chennai Super Kings,109,2019-04-26
+1178419,Mumbai Indians,155,2019-04-26
+1178420,Rajasthan Royals,161,2019-04-27
+1178420,Sunrisers Hyderabad,160,2019-04-27
+1178421,Delhi Capitals,187,2019-04-28
+1178421,Royal Challengers Bangalore,171,2019-04-28
+1178422,Kolkata Knight Riders,232,2019-04-28
+1178422,Mumbai Indians,198,2019-04-28
+1178423,Punjab Kings,167,2019-04-29
+1178423,Sunrisers Hyderabad,212,2019-04-29
+1178424,Rajasthan Royals,41,2019-04-30
+1178424,Royal Challengers Bangalore,62,2019-04-30
+1178425,Chennai Super Kings,179,2019-05-01
+1178425,Delhi Capitals,99,2019-05-01
+1178426,Mumbai Indians,171,2019-05-02
+1178426,Sunrisers Hyderabad,170,2019-05-02
+1178427,Kolkata Knight Riders,185,2019-05-03
+1178427,Punjab Kings,183,2019-05-03
+1178428,Delhi Capitals,121,2019-05-04
+1178428,Rajasthan Royals,115,2019-05-04
+1178429,Royal Challengers Bangalore,178,2019-05-04
+1178429,Sunrisers Hyderabad,175,2019-05-04
+1178430,Chennai Super Kings,170,2019-05-05
+1178430,Punjab Kings,173,2019-05-05
+1178431,Kolkata Knight Riders,133,2019-05-05
+1178431,Mumbai Indians,134,2019-05-05
+1181764,Chennai Super Kings,131,2019-05-07
+1181764,Mumbai Indians,132,2019-05-07
+1181766,Delhi Capitals,165,2019-05-08
+1181766,Sunrisers Hyderabad,162,2019-05-08
+1181767,Chennai Super Kings,151,2019-05-10
+1181767,Delhi Capitals,147,2019-05-10
+1181768,Chennai Super Kings,148,2019-05-12
+1181768,Mumbai Indians,149,2019-05-12
+1216492,Chennai Super Kings,166,2020-09-19
+1216492,Mumbai Indians,162,2020-09-19
+1216493,Delhi Capitals,160,2020-09-20
+1216493,Punjab Kings,159,2020-09-20
+1216494,Kolkata Knight Riders,84,2020-10-21
+1216494,Royal Challengers Bangalore,85,2020-10-21
+1216495,Mumbai Indians,149,2020-11-03
+1216495,Sunrisers Hyderabad,151,2020-11-03
+1216496,Chennai Super Kings,200,2020-09-22
+1216496,Rajasthan Royals,216,2020-09-22
+1216497,Delhi Capitals,135,2020-10-24
+1216497,Kolkata Knight Riders,194,2020-10-24
+1216498,Punjab Kings,126,2020-10-24
+1216498,Sunrisers Hyderabad,114,2020-10-24
+1216499,Mumbai Indians,166,2020-10-28
+1216499,Royal Challengers Bangalore,164,2020-10-28
+1216500,Delhi Capitals,184,2020-10-09
+1216500,Rajasthan Royals,138,2020-10-09
+1216501,Chennai Super Kings,157,2020-10-07
+1216501,Kolkata Knight Riders,167,2020-10-07
+1216502,Royal Challengers Bangalore,120,2020-10-31
+1216502,Sunrisers Hyderabad,121,2020-10-31
+1216503,Mumbai Indians,191,2020-10-01
+1216503,Punjab Kings,143,2020-10-01
+1216504,Kolkata Knight Riders,174,2020-09-30
+1216504,Rajasthan Royals,137,2020-09-30
+1216505,Delhi Capitals,154,2020-11-02
+1216505,Royal Challengers Bangalore,152,2020-11-02
+1216506,Chennai Super Kings,154,2020-11-01
+1216506,Punjab Kings,153,2020-11-01
+1216507,Rajasthan Royals,163,2020-10-11
+1216507,Sunrisers Hyderabad,158,2020-10-11
+1216508,Kolkata Knight Riders,146,2020-09-23
+1216508,Mumbai Indians,195,2020-09-23
+1216509,Chennai Super Kings,179,2020-10-17
+1216509,Delhi Capitals,185,2020-10-17
+1216510,Punjab Kings,206,2020-09-24
+1216510,Royal Challengers Bangalore,109,2020-09-24
+1216511,Mumbai Indians,193,2020-10-06
+1216511,Rajasthan Royals,136,2020-10-06
+1216512,Kolkata Knight Riders,166,2020-10-18
+1216512,Sunrisers Hyderabad,165,2020-10-18
+1216513,Chennai Super Kings,181,2020-10-04
+1216513,Punjab Kings,178,2020-10-04
+1216514,Rajasthan Royals,154,2020-10-03
+1216514,Royal Challengers Bangalore,158,2020-10-03
+1216515,Delhi Capitals,228,2020-10-03
+1216515,Kolkata Knight Riders,210,2020-10-03
+1216516,Chennai Super Kings,157,2020-10-02
+1216516,Sunrisers Hyderabad,164,2020-10-02
+1216517,Mumbai Indians,192,2020-10-18
+1216517,Punjab Kings,196,2020-10-18
+1216518,Rajasthan Royals,154,2020-10-22
+1216518,Sunrisers Hyderabad,156,2020-10-22
+1216519,Delhi Capitals,196,2020-10-05
+1216519,Royal Challengers Bangalore,137,2020-10-05
+1216520,Kolkata Knight Riders,149,2020-10-26
+1216520,Punjab Kings,150,2020-10-26
+1216521,Chennai Super Kings,114,2020-10-23
+1216521,Mumbai Indians,116,2020-10-23
+1216522,Rajasthan Royals,177,2020-10-17
+1216522,Royal Challengers Bangalore,179,2020-10-17
+1216523,Kolkata Knight Riders,164,2020-10-10
+1216523,Punjab Kings,162,2020-10-10
+1216524,Delhi Capitals,131,2020-10-27
+1216524,Sunrisers Hyderabad,219,2020-10-27
+1216525,Chennai Super Kings,132,2020-10-10
+1216525,Royal Challengers Bangalore,169,2020-10-10
+1216526,Kolkata Knight Riders,148,2020-10-16
+1216526,Mumbai Indians,149,2020-10-16
+1216527,Punjab Kings,223,2020-09-27
+1216527,Rajasthan Royals,226,2020-09-27
+1216528,Chennai Super Kings,167,2020-10-13
+1216528,Sunrisers Hyderabad,147,2020-10-13
+1216529,Delhi Capitals,162,2020-10-11
+1216529,Mumbai Indians,166,2020-10-11
+1216530,Kolkata Knight Riders,191,2020-11-01
+1216530,Rajasthan Royals,131,2020-11-01
+1216531,Punjab Kings,177,2020-10-15
+1216531,Royal Challengers Bangalore,171,2020-10-15
+1216532,Delhi Capitals,147,2020-09-29
+1216532,Sunrisers Hyderabad,162,2020-09-29
+1216533,Chennai Super Kings,125,2020-10-19
+1216533,Rajasthan Royals,126,2020-10-19
+1216534,Royal Challengers Bangalore,163,2020-09-21
+1216534,Sunrisers Hyderabad,153,2020-09-21
+1216535,Delhi Capitals,110,2020-10-31
+1216535,Mumbai Indians,111,2020-10-31
+1216536,Chennai Super Kings,178,2020-10-29
+1216536,Kolkata Knight Riders,172,2020-10-29
+1216537,Punjab Kings,185,2020-10-30
+1216537,Rajasthan Royals,186,2020-10-30
+1216538,Mumbai Indians,208,2020-10-04
+1216538,Sunrisers Hyderabad,174,2020-10-04
+1216539,Chennai Super Kings,131,2020-09-25
+1216539,Delhi Capitals,175,2020-09-25
+1216540,Kolkata Knight Riders,112,2020-10-12
+1216540,Royal Challengers Bangalore,194,2020-10-12
+1216541,Mumbai Indians,195,2020-10-25
+1216541,Rajasthan Royals,196,2020-10-25
+1216542,Punjab Kings,132,2020-10-08
+1216542,Sunrisers Hyderabad,201,2020-10-08
+1216543,Delhi Capitals,161,2020-10-14
+1216543,Rajasthan Royals,148,2020-10-14
+1216544,Chennai Super Kings,150,2020-10-25
+1216544,Royal Challengers Bangalore,145,2020-10-25
+1216545,Kolkata Knight Riders,145,2020-09-26
+1216545,Sunrisers Hyderabad,142,2020-09-26
+1216546,Delhi Capitals,164,2020-10-20
+1216546,Punjab Kings,167,2020-10-20
+1216547,Mumbai Indians,208,2020-09-28
+1216547,Royal Challengers Bangalore,212,2020-09-28
+1237177,Delhi Capitals,143,2020-11-05
+1237177,Mumbai Indians,200,2020-11-05
+1237178,Royal Challengers Bangalore,131,2020-11-06
+1237178,Sunrisers Hyderabad,132,2020-11-06
+1237180,Delhi Capitals,189,2020-11-08
+1237180,Sunrisers Hyderabad,172,2020-11-08
+1237181,Delhi Capitals,156,2020-11-10
+1237181,Mumbai Indians,157,2020-11-10
+1254058,Mumbai Indians,159,2021-04-09
+1254058,Royal Challengers Bangalore,160,2021-04-09
+1254059,Chennai Super Kings,188,2021-04-10
+1254059,Delhi Capitals,190,2021-04-10
+1254060,Kolkata Knight Riders,187,2021-04-11
+1254060,Sunrisers Hyderabad,177,2021-04-11
+1254061,Punjab Kings,221,2021-04-12
+1254061,Rajasthan Royals,217,2021-04-12
+1254062,Kolkata Knight Riders,142,2021-04-13
+1254062,Mumbai Indians,152,2021-04-13
+1254063,Royal Challengers Bangalore,149,2021-04-14
+1254063,Sunrisers Hyderabad,143,2021-04-14
+1254064,Delhi Capitals,147,2021-04-15
+1254064,Rajasthan Royals,150,2021-04-15
+1254065,Chennai Super Kings,107,2021-04-16
+1254065,Punjab Kings,106,2021-04-16
+1254066,Mumbai Indians,150,2021-04-17
+1254066,Sunrisers Hyderabad,137,2021-04-17
+1254067,Kolkata Knight Riders,166,2021-04-18
+1254067,Royal Challengers Bangalore,204,2021-04-18
+1254068,Delhi Capitals,198,2021-04-18
+1254068,Punjab Kings,195,2021-04-18
+1254069,Chennai Super Kings,188,2021-04-19
+1254069,Rajasthan Royals,143,2021-04-19
+1254070,Delhi Capitals,138,2021-04-20
+1254070,Mumbai Indians,137,2021-04-20
+1254071,Punjab Kings,120,2021-04-21
+1254071,Sunrisers Hyderabad,121,2021-04-21
+1254072,Chennai Super Kings,220,2021-04-21
+1254072,Kolkata Knight Riders,202,2021-04-21
+1254073,Rajasthan Royals,177,2021-04-22
+1254073,Royal Challengers Bangalore,181,2021-04-22
+1254074,Mumbai Indians,131,2021-04-23
+1254074,Punjab Kings,132,2021-04-23
+1254075,Kolkata Knight Riders,133,2021-04-24
+1254075,Rajasthan Royals,134,2021-04-24
+1254076,Chennai Super Kings,191,2021-04-25
+1254076,Royal Challengers Bangalore,122,2021-04-25
+1254077,Delhi Capitals,167,2021-04-25
+1254077,Sunrisers Hyderabad,166,2021-04-25
+1254078,Kolkata Knight Riders,126,2021-04-26
+1254078,Punjab Kings,123,2021-04-26
+1254079,Delhi Capitals,170,2021-04-27
+1254079,Royal Challengers Bangalore,171,2021-04-27
+1254080,Chennai Super Kings,173,2021-04-28
+1254080,Sunrisers Hyderabad,171,2021-04-28
+1254081,Mumbai Indians,172,2021-04-29
+1254081,Rajasthan Royals,171,2021-04-29
+1254082,Delhi Capitals,156,2021-04-29
+1254082,Kolkata Knight Riders,154,2021-04-29
+1254083,Punjab Kings,179,2021-04-30
+1254083,Royal Challengers Bangalore,145,2021-04-30
+1254084,Chennai Super Kings,218,2021-05-01
+1254084,Mumbai Indians,219,2021-05-01
+1254085,Rajasthan Royals,220,2021-05-02
+1254085,Sunrisers Hyderabad,165,2021-05-02
+1254086,Delhi Capitals,167,2021-05-02
+1254086,Punjab Kings,166,2021-05-02
+1254087,Kolkata Knight Riders,94,2021-09-20
+1254087,Royal Challengers Bangalore,92,2021-09-20
+1254088,Mumbai Indians,235,2021-10-08
+1254088,Sunrisers Hyderabad,193,2021-10-08
+1254089,Chennai Super Kings,189,2021-10-02
+1254089,Rajasthan Royals,190,2021-10-02
+1254090,Punjab Kings,158,2021-10-03
+1254090,Royal Challengers Bangalore,164,2021-10-03
+1254091,Chennai Super Kings,139,2021-09-30
+1254091,Sunrisers Hyderabad,134,2021-09-30
+1254092,Delhi Capitals,127,2021-09-28
+1254092,Kolkata Knight Riders,130,2021-09-28
+1254093,Mumbai Indians,94,2021-10-05
+1254093,Rajasthan Royals,90,2021-10-05
+1254094,Chennai Super Kings,134,2021-10-07
+1254094,Punjab Kings,139,2021-10-07
+1254095,Royal Challengers Bangalore,137,2021-10-06
+1254095,Sunrisers Hyderabad,141,2021-10-06
+1254096,Kolkata Knight Riders,159,2021-09-23
+1254096,Mumbai Indians,155,2021-09-23
+1254097,Delhi Capitals,154,2021-09-25
+1254097,Rajasthan Royals,121,2021-09-25
+1254098,Chennai Super Kings,172,2021-09-26
+1254098,Kolkata Knight Riders,171,2021-09-26
+1254099,Mumbai Indians,137,2021-09-28
+1254099,Punjab Kings,135,2021-09-28
+1254100,Rajasthan Royals,164,2021-09-27
+1254100,Sunrisers Hyderabad,167,2021-09-27
+1254101,Delhi Capitals,164,2021-10-08
+1254101,Royal Challengers Bangalore,166,2021-10-08
+1254102,Kolkata Knight Riders,165,2021-10-01
+1254102,Punjab Kings,168,2021-10-01
+1254103,Rajasthan Royals,149,2021-09-29
+1254103,Royal Challengers Bangalore,153,2021-09-29
+1254104,Chennai Super Kings,156,2021-09-19
+1254104,Mumbai Indians,136,2021-09-19
+1254105,Delhi Capitals,139,2021-09-22
+1254105,Sunrisers Hyderabad,134,2021-09-22
+1254106,Kolkata Knight Riders,171,2021-10-07
+1254106,Rajasthan Royals,85,2021-10-07
+1254107,Punjab Kings,125,2021-09-25
+1254107,Sunrisers Hyderabad,120,2021-09-25
+1254108,Mumbai Indians,111,2021-09-26
+1254108,Royal Challengers Bangalore,165,2021-09-26
+1254109,Kolkata Knight Riders,119,2021-10-03
+1254109,Sunrisers Hyderabad,115,2021-10-03
+1254110,Chennai Super Kings,136,2021-10-04
+1254110,Delhi Capitals,139,2021-10-04
+1254111,Punjab Kings,183,2021-09-21
+1254111,Rajasthan Royals,185,2021-09-21
+1254112,Delhi Capitals,132,2021-10-02
+1254112,Mumbai Indians,129,2021-10-02
+1254113,Chennai Super Kings,157,2021-09-24
+1254113,Royal Challengers Bangalore,156,2021-09-24
+1254114,Chennai Super Kings,173,2021-10-10
+1254114,Delhi Capitals,172,2021-10-10
+1254115,Kolkata Knight Riders,139,2021-10-11
+1254115,Royal Challengers Bangalore,138,2021-10-11
+1254116,Delhi Capitals,135,2021-10-13
+1254116,Kolkata Knight Riders,136,2021-10-13
+1254117,Chennai Super Kings,192,2021-10-15
+1254117,Kolkata Knight Riders,165,2021-10-15
+1304047,Chennai Super Kings,131,2022-03-26
+1304047,Kolkata Knight Riders,133,2022-03-26
+1304048,Delhi Capitals,179,2022-03-27
+1304048,Mumbai Indians,177,2022-03-27
+1304049,Punjab Kings,208,2022-03-27
+1304049,Royal Challengers Bangalore,205,2022-03-27
+1304050,Gujarat Titans,161,2022-03-28
+1304050,Lucknow Super Giants,158,2022-03-28
+1304051,Rajasthan Royals,210,2022-03-29
+1304051,Sunrisers Hyderabad,149,2022-03-29
+1304052,Kolkata Knight Riders,128,2022-03-30
+1304052,Royal Challengers Bangalore,132,2022-03-30
+1304053,Chennai Super Kings,210,2022-03-31
+1304053,Lucknow Super Giants,211,2022-03-31
+1304054,Kolkata Knight Riders,141,2022-04-01
+1304054,Punjab Kings,137,2022-04-01
+1304055,Mumbai Indians,170,2022-04-02
+1304055,Rajasthan Royals,193,2022-04-02
+1304056,Delhi Capitals,157,2022-04-02
+1304056,Gujarat Titans,171,2022-04-02
+1304057,Chennai Super Kings,126,2022-04-03
+1304057,Punjab Kings,180,2022-04-03
+1304058,Lucknow Super Giants,169,2022-04-04
+1304058,Sunrisers Hyderabad,157,2022-04-04
+1304059,Rajasthan Royals,169,2022-04-05
+1304059,Royal Challengers Bangalore,173,2022-04-05
+1304060,Kolkata Knight Riders,162,2022-04-06
+1304060,Mumbai Indians,161,2022-04-06
+1304061,Delhi Capitals,149,2022-04-07
+1304061,Lucknow Super Giants,155,2022-04-07
+1304062,Gujarat Titans,190,2022-04-08
+1304062,Punjab Kings,189,2022-04-08
+1304063,Chennai Super Kings,154,2022-04-09
+1304063,Sunrisers Hyderabad,155,2022-04-09
+1304064,Mumbai Indians,151,2022-04-09
+1304064,Royal Challengers Bangalore,152,2022-04-09
+1304065,Delhi Capitals,215,2022-04-10
+1304065,Kolkata Knight Riders,171,2022-04-10
+1304066,Lucknow Super Giants,162,2022-04-10
+1304066,Rajasthan Royals,165,2022-04-10
+1304067,Gujarat Titans,162,2022-04-11
+1304067,Sunrisers Hyderabad,168,2022-04-11
+1304068,Chennai Super Kings,216,2022-04-12
+1304068,Royal Challengers Bangalore,193,2022-04-12
+1304069,Mumbai Indians,186,2022-04-13
+1304069,Punjab Kings,198,2022-04-13
+1304070,Gujarat Titans,192,2022-04-14
+1304070,Rajasthan Royals,155,2022-04-14
+1304071,Kolkata Knight Riders,175,2022-04-15
+1304071,Sunrisers Hyderabad,176,2022-04-15
+1304072,Lucknow Super Giants,199,2022-04-16
+1304072,Mumbai Indians,181,2022-04-16
+1304073,Delhi Capitals,173,2022-04-16
+1304073,Royal Challengers Bangalore,189,2022-04-16
+1304074,Punjab Kings,151,2022-04-17
+1304074,Sunrisers Hyderabad,152,2022-04-17
+1304075,Chennai Super Kings,169,2022-04-17
+1304075,Gujarat Titans,170,2022-04-17
+1304076,Kolkata Knight Riders,210,2022-04-18
+1304076,Rajasthan Royals,217,2022-04-18
+1304077,Lucknow Super Giants,163,2022-04-19
+1304077,Royal Challengers Bangalore,181,2022-04-19
+1304078,Delhi Capitals,119,2022-04-20
+1304078,Punjab Kings,115,2022-04-20
+1304079,Chennai Super Kings,156,2022-04-21
+1304079,Mumbai Indians,155,2022-04-21
+1304080,Delhi Capitals,207,2022-04-22
+1304080,Rajasthan Royals,222,2022-04-22
+1304081,Gujarat Titans,156,2022-04-23
+1304081,Kolkata Knight Riders,148,2022-04-23
+1304082,Royal Challengers Bangalore,68,2022-04-23
+1304082,Sunrisers Hyderabad,72,2022-04-23
+1304083,Lucknow Super Giants,168,2022-04-24
+1304083,Mumbai Indians,132,2022-04-24
+1304084,Chennai Super Kings,176,2022-04-25
+1304084,Punjab Kings,187,2022-04-25
+1304085,Rajasthan Royals,144,2022-04-26
+1304085,Royal Challengers Bangalore,115,2022-04-26
+1304086,Gujarat Titans,199,2022-04-27
+1304086,Sunrisers Hyderabad,195,2022-04-27
+1304087,Delhi Capitals,150,2022-04-28
+1304087,Kolkata Knight Riders,146,2022-04-28
+1304088,Lucknow Super Giants,153,2022-04-29
+1304088,Punjab Kings,133,2022-04-29
+1304089,Gujarat Titans,174,2022-04-30
+1304089,Royal Challengers Bangalore,170,2022-04-30
+1304090,Mumbai Indians,161,2022-04-30
+1304090,Rajasthan Royals,158,2022-04-30
+1304091,Delhi Capitals,189,2022-05-01
+1304091,Lucknow Super Giants,195,2022-05-01
+1304092,Chennai Super Kings,202,2022-05-01
+1304092,Sunrisers Hyderabad,189,2022-05-01
+1304093,Kolkata Knight Riders,158,2022-05-02
+1304093,Rajasthan Royals,152,2022-05-02
+1304094,Gujarat Titans,143,2022-05-03
+1304094,Punjab Kings,145,2022-05-03
+1304095,Chennai Super Kings,160,2022-05-04
+1304095,Royal Challengers Bangalore,173,2022-05-04
+1304096,Delhi Capitals,207,2022-05-05
+1304096,Sunrisers Hyderabad,186,2022-05-05
+1304097,Gujarat Titans,172,2022-05-06
+1304097,Mumbai Indians,177,2022-05-06
+1304098,Punjab Kings,189,2022-05-07
+1304098,Rajasthan Royals,190,2022-05-07
+1304099,Kolkata Knight Riders,101,2022-05-07
+1304099,Lucknow Super Giants,176,2022-05-07
+1304100,Royal Challengers Bangalore,192,2022-05-08
+1304100,Sunrisers Hyderabad,125,2022-05-08
+1304101,Chennai Super Kings,208,2022-05-08
+1304101,Delhi Capitals,117,2022-05-08
+1304102,Kolkata Knight Riders,165,2022-05-09
+1304102,Mumbai Indians,113,2022-05-09
+1304103,Gujarat Titans,144,2022-05-10
+1304103,Lucknow Super Giants,82,2022-05-10
+1304104,Delhi Capitals,161,2022-05-11
+1304104,Rajasthan Royals,160,2022-05-11
+1304105,Chennai Super Kings,97,2022-05-12
+1304105,Mumbai Indians,103,2022-05-12
+1304106,Punjab Kings,209,2022-05-13
+1304106,Royal Challengers Bangalore,155,2022-05-13
+1304107,Kolkata Knight Riders,177,2022-05-14
+1304107,Sunrisers Hyderabad,123,2022-05-14
+1304108,Chennai Super Kings,133,2022-05-15
+1304108,Gujarat Titans,137,2022-05-15
+1304109,Lucknow Super Giants,154,2022-05-15
+1304109,Rajasthan Royals,178,2022-05-15
+1304110,Delhi Capitals,159,2022-05-16
+1304110,Punjab Kings,142,2022-05-16
+1304111,Mumbai Indians,190,2022-05-17
+1304111,Sunrisers Hyderabad,193,2022-05-17
+1304112,Kolkata Knight Riders,208,2022-05-18
+1304112,Lucknow Super Giants,210,2022-05-18
+1304113,Gujarat Titans,168,2022-05-19
+1304113,Royal Challengers Bangalore,170,2022-05-19
+1304114,Chennai Super Kings,150,2022-05-20
+1304114,Rajasthan Royals,151,2022-05-20
+1304115,Delhi Capitals,159,2022-05-21
+1304115,Mumbai Indians,160,2022-05-21
+1304116,Punjab Kings,160,2022-05-22
+1304116,Sunrisers Hyderabad,157,2022-05-22
+1312197,Gujarat Titans,191,2022-05-24
+1312197,Rajasthan Royals,188,2022-05-24
+1312198,Lucknow Super Giants,193,2022-05-25
+1312198,Royal Challengers Bangalore,207,2022-05-25
+1312199,Rajasthan Royals,161,2022-05-27
+1312199,Royal Challengers Bangalore,157,2022-05-27
+1312200,Gujarat Titans,133,2022-05-29
+1312200,Rajasthan Royals,130,2022-05-29
+1359475,Chennai Super Kings,178,2023-03-31
+1359475,Gujarat Titans,182,2023-03-31
+1359476,Kolkata Knight Riders,146,2023-04-01
+1359476,Punjab Kings,191,2023-04-01
+1359477,Delhi Capitals,143,2023-04-01
+1359477,Lucknow Super Giants,193,2023-04-01
+1359478,Rajasthan Royals,203,2023-04-02
+1359478,Sunrisers Hyderabad,131,2023-04-02
+1359479,Mumbai Indians,171,2023-04-02
+1359479,Royal Challengers Bangalore,172,2023-04-02
+1359480,Chennai Super Kings,217,2023-04-03
+1359480,Lucknow Super Giants,205,2023-04-03
+1359481,Delhi Capitals,162,2023-04-04
+1359481,Gujarat Titans,163,2023-04-04
+1359482,Punjab Kings,197,2023-04-05
+1359482,Rajasthan Royals,192,2023-04-05
+1359483,Kolkata Knight Riders,204,2023-04-06
+1359483,Royal Challengers Bangalore,123,2023-04-06
+1359484,Lucknow Super Giants,127,2023-04-07
+1359484,Sunrisers Hyderabad,121,2023-04-07
+1359485,Delhi Capitals,142,2023-04-08
+1359485,Rajasthan Royals,199,2023-04-08
+1359486,Chennai Super Kings,159,2023-04-08
+1359486,Mumbai Indians,157,2023-04-08
+1359487,Gujarat Titans,204,2023-04-09
+1359487,Kolkata Knight Riders,207,2023-04-09
+1359488,Punjab Kings,143,2023-04-09
+1359488,Sunrisers Hyderabad,145,2023-04-09
+1359489,Lucknow Super Giants,213,2023-04-10
+1359489,Royal Challengers Bangalore,212,2023-04-10
+1359490,Delhi Capitals,172,2023-04-11
+1359490,Mumbai Indians,173,2023-04-11
+1359491,Chennai Super Kings,172,2023-04-12
+1359491,Rajasthan Royals,175,2023-04-12
+1359492,Gujarat Titans,154,2023-04-13
+1359492,Punjab Kings,153,2023-04-13
+1359493,Kolkata Knight Riders,205,2023-04-14
+1359493,Sunrisers Hyderabad,228,2023-04-14
+1359494,Delhi Capitals,151,2023-04-15
+1359494,Royal Challengers Bangalore,174,2023-04-15
+1359495,Lucknow Super Giants,159,2023-04-15
+1359495,Punjab Kings,161,2023-04-15
+1359496,Kolkata Knight Riders,185,2023-04-16
+1359496,Mumbai Indians,186,2023-04-16
+1359497,Gujarat Titans,177,2023-04-16
+1359497,Rajasthan Royals,179,2023-04-16
+1359498,Chennai Super Kings,226,2023-04-17
+1359498,Royal Challengers Bangalore,218,2023-04-17
+1359499,Mumbai Indians,192,2023-04-18
+1359499,Sunrisers Hyderabad,178,2023-04-18
+1359500,Lucknow Super Giants,154,2023-04-19
+1359500,Rajasthan Royals,144,2023-04-19
+1359501,Punjab Kings,150,2023-04-20
+1359501,Royal Challengers Bangalore,174,2023-04-20
+1359502,Delhi Capitals,128,2023-04-20
+1359502,Kolkata Knight Riders,127,2023-04-20
+1359503,Chennai Super Kings,138,2023-04-21
+1359503,Sunrisers Hyderabad,134,2023-04-21
+1359504,Gujarat Titans,135,2023-04-22
+1359504,Lucknow Super Giants,128,2023-04-22
+1359505,Mumbai Indians,201,2023-04-22
+1359505,Punjab Kings,214,2023-04-22
+1359506,Rajasthan Royals,182,2023-04-23
+1359506,Royal Challengers Bangalore,189,2023-04-23
+1359507,Chennai Super Kings,235,2023-04-23
+1359507,Kolkata Knight Riders,186,2023-04-23
+1359508,Delhi Capitals,144,2023-04-24
+1359508,Sunrisers Hyderabad,137,2023-04-24
+1359509,Gujarat Titans,207,2023-04-25
+1359509,Mumbai Indians,152,2023-04-25
+1359510,Kolkata Knight Riders,200,2023-04-26
+1359510,Royal Challengers Bangalore,179,2023-04-26
+1359511,Chennai Super Kings,170,2023-04-27
+1359511,Rajasthan Royals,202,2023-04-27
+1359512,Lucknow Super Giants,257,2023-04-28
+1359512,Punjab Kings,201,2023-04-28
+1359513,Gujarat Titans,180,2023-04-29
+1359513,Kolkata Knight Riders,179,2023-04-29
+1359514,Delhi Capitals,188,2023-04-29
+1359514,Sunrisers Hyderabad,197,2023-04-29
+1359515,Chennai Super Kings,200,2023-04-30
+1359515,Punjab Kings,201,2023-04-30
+1359516,Mumbai Indians,214,2023-04-30
+1359516,Rajasthan Royals,212,2023-04-30
+1359517,Lucknow Super Giants,108,2023-05-01
+1359517,Royal Challengers Bangalore,126,2023-05-01
+1359518,Delhi Capitals,130,2023-05-02
+1359518,Gujarat Titans,125,2023-05-02
+1359519,Lucknow Super Giants,125,2023-05-03
+1359520,Mumbai Indians,216,2023-05-03
+1359520,Punjab Kings,214,2023-05-03
+1359521,Kolkata Knight Riders,171,2023-05-04
+1359521,Sunrisers Hyderabad,166,2023-05-04
+1359522,Gujarat Titans,119,2023-05-05
+1359522,Rajasthan Royals,118,2023-05-05
+1359523,Chennai Super Kings,140,2023-05-06
+1359523,Mumbai Indians,139,2023-05-06
+1359524,Delhi Capitals,187,2023-05-06
+1359524,Royal Challengers Bangalore,181,2023-05-06
+1359525,Gujarat Titans,227,2023-05-07
+1359525,Lucknow Super Giants,171,2023-05-07
+1359526,Rajasthan Royals,214,2023-05-07
+1359526,Sunrisers Hyderabad,217,2023-05-07
+1359527,Kolkata Knight Riders,182,2023-05-08
+1359527,Punjab Kings,179,2023-05-08
+1359528,Mumbai Indians,200,2023-05-09
+1359528,Royal Challengers Bangalore,199,2023-05-09
+1359529,Chennai Super Kings,167,2023-05-10
+1359529,Delhi Capitals,140,2023-05-10
+1359530,Kolkata Knight Riders,149,2023-05-11
+1359530,Rajasthan Royals,151,2023-05-11
+1359531,Gujarat Titans,191,2023-05-12
+1359531,Mumbai Indians,218,2023-05-12
+1359532,Lucknow Super Giants,185,2023-05-13
+1359532,Sunrisers Hyderabad,182,2023-05-13
+1359533,Delhi Capitals,136,2023-05-13
+1359533,Punjab Kings,167,2023-05-13
+1359534,Rajasthan Royals,59,2023-05-14
+1359534,Royal Challengers Bangalore,171,2023-05-14
+1359535,Chennai Super Kings,144,2023-05-14
+1359535,Kolkata Knight Riders,147,2023-05-14
+1359536,Gujarat Titans,188,2023-05-15
+1359536,Sunrisers Hyderabad,154,2023-05-15
+1359537,Lucknow Super Giants,177,2023-05-16
+1359537,Mumbai Indians,172,2023-05-16
+1359538,Delhi Capitals,213,2023-05-17
+1359538,Punjab Kings,198,2023-05-17
+1359539,Royal Challengers Bangalore,187,2023-05-18
+1359539,Sunrisers Hyderabad,186,2023-05-18
+1359540,Punjab Kings,187,2023-05-19
+1359540,Rajasthan Royals,189,2023-05-19
+1359541,Chennai Super Kings,223,2023-05-20
+1359541,Delhi Capitals,146,2023-05-20
+1359542,Kolkata Knight Riders,175,2023-05-20
+1359542,Lucknow Super Giants,176,2023-05-20
+1359543,Mumbai Indians,201,2023-05-21
+1359543,Sunrisers Hyderabad,200,2023-05-21
+1359544,Gujarat Titans,198,2023-05-21
+1359544,Royal Challengers Bangalore,197,2023-05-21
+1370350,Chennai Super Kings,172,2023-05-23
+1370350,Gujarat Titans,157,2023-05-23
+1370351,Lucknow Super Giants,101,2023-05-24
+1370351,Mumbai Indians,182,2023-05-24
+1370352,Gujarat Titans,233,2023-05-26
+1370352,Mumbai Indians,171,2023-05-26
+1370353,Chennai Super Kings,171,2023-05-29
+1370353,Gujarat Titans,214,2023-05-29
+1422119,Chennai Super Kings,176,2024-03-22
+1422119,Royal Challengers Bangalore,173,2024-03-22
+1422120,Delhi Capitals,174,2024-03-23
+1422120,Punjab Kings,177,2024-03-23
+1422121,Kolkata Knight Riders,208,2024-03-23
+1422121,Sunrisers Hyderabad,204,2024-03-23
+1422122,Lucknow Super Giants,173,2024-03-24
+1422122,Rajasthan Royals,193,2024-03-24
+1422123,Gujarat Titans,168,2024-03-24
+1422123,Mumbai Indians,162,2024-03-24
+1422124,Punjab Kings,176,2024-03-25
+1422124,Royal Challengers Bangalore,178,2024-03-25
+1422125,Chennai Super Kings,206,2024-03-26
+1422125,Gujarat Titans,143,2024-03-26
+1422126,Mumbai Indians,246,2024-03-27
+1422126,Sunrisers Hyderabad,277,2024-03-27
+1422127,Delhi Capitals,173,2024-03-28
+1422127,Rajasthan Royals,185,2024-03-28
+1422128,Kolkata Knight Riders,186,2024-03-29
+1422128,Royal Challengers Bangalore,182,2024-03-29
+1422129,Lucknow Super Giants,199,2024-03-30
+1422129,Punjab Kings,178,2024-03-30
+1422130,Gujarat Titans,168,2024-03-31
+1422130,Sunrisers Hyderabad,162,2024-03-31
+1422131,Chennai Super Kings,171,2024-03-31
+1422131,Delhi Capitals,191,2024-03-31
+1422132,Mumbai Indians,125,2024-04-01
+1422132,Rajasthan Royals,127,2024-04-01
+1422133,Lucknow Super Giants,181,2024-04-02
+1422133,Royal Challengers Bangalore,153,2024-04-02
+1422134,Delhi Capitals,166,2024-04-03
+1422134,Kolkata Knight Riders,272,2024-04-03
+1422135,Gujarat Titans,199,2024-04-04
+1422135,Punjab Kings,200,2024-04-04
+1422136,Chennai Super Kings,165,2024-04-05
+1422136,Sunrisers Hyderabad,166,2024-04-05
+1422137,Rajasthan Royals,189,2024-04-06
+1422137,Royal Challengers Bangalore,183,2024-04-06
+1422138,Delhi Capitals,205,2024-04-07
+1422138,Mumbai Indians,234,2024-04-07
+1422139,Gujarat Titans,130,2024-04-07
+1422139,Lucknow Super Giants,163,2024-04-07
+1426260,Chennai Super Kings,141,2024-04-08
+1426260,Kolkata Knight Riders,137,2024-04-08
+1426261,Punjab Kings,180,2024-04-09
+1426261,Sunrisers Hyderabad,182,2024-04-09
+1426262,Gujarat Titans,199,2024-04-10
+1426262,Rajasthan Royals,196,2024-04-10
+1426263,Mumbai Indians,199,2024-04-11
+1426263,Royal Challengers Bangalore,196,2024-04-11
+1426264,Delhi Capitals,170,2024-04-12
+1426264,Lucknow Super Giants,167,2024-04-12
+1426265,Punjab Kings,147,2024-04-13
+1426265,Rajasthan Royals,152,2024-04-13
+1426266,Kolkata Knight Riders,162,2024-04-14
+1426266,Lucknow Super Giants,161,2024-04-14
+1426267,Chennai Super Kings,206,2024-04-14
+1426267,Mumbai Indians,186,2024-04-14
+1426268,Royal Challengers Bangalore,262,2024-04-15
+1426268,Sunrisers Hyderabad,287,2024-04-15
+1426269,Kolkata Knight Riders,223,2024-04-16
+1426269,Rajasthan Royals,224,2024-04-16
+1426270,Delhi Capitals,92,2024-04-17
+1426270,Gujarat Titans,89,2024-04-17
+1426271,Mumbai Indians,192,2024-04-18
+1426271,Punjab Kings,183,2024-04-18
+1426272,Chennai Super Kings,176,2024-04-19
+1426272,Lucknow Super Giants,180,2024-04-19
+1426273,Delhi Capitals,199,2024-04-20
+1426273,Sunrisers Hyderabad,266,2024-04-20
+1426274,Kolkata Knight Riders,222,2024-04-21
+1426274,Royal Challengers Bangalore,221,2024-04-21
+1426275,Gujarat Titans,146,2024-04-21
+1426275,Punjab Kings,142,2024-04-21
+1426276,Mumbai Indians,179,2024-04-22
+1426276,Rajasthan Royals,183,2024-04-22
+1426277,Chennai Super Kings,210,2024-04-23
+1426277,Lucknow Super Giants,213,2024-04-23
+1426278,Delhi Capitals,224,2024-04-24
+1426278,Gujarat Titans,220,2024-04-24
+1426279,Royal Challengers Bangalore,206,2024-04-25
+1426279,Sunrisers Hyderabad,171,2024-04-25
+1426280,Kolkata Knight Riders,261,2024-04-26
+1426280,Punjab Kings,262,2024-04-26
+1426281,Delhi Capitals,257,2024-04-27
+1426281,Mumbai Indians,247,2024-04-27
+1426282,Lucknow Super Giants,196,2024-04-27
+1426282,Rajasthan Royals,199,2024-04-27
+1426283,Gujarat Titans,200,2024-04-28
+1426283,Royal Challengers Bangalore,206,2024-04-28
+1426284,Chennai Super Kings,212,2024-04-28
+1426284,Sunrisers Hyderabad,134,2024-04-28
+1426285,Delhi Capitals,153,2024-04-29
+1426285,Kolkata Knight Riders,157,2024-04-29
+1426286,Lucknow Super Giants,145,2024-04-30
+1426286,Mumbai Indians,144,2024-04-30
+1426287,Chennai Super Kings,162,2024-05-01
+1426287,Punjab Kings,163,2024-05-01
+1426288,Rajasthan Royals,200,2024-05-02
+1426288,Sunrisers Hyderabad,201,2024-05-02
+1426289,Kolkata Knight Riders,169,2024-05-03
+1426289,Mumbai Indians,145,2024-05-03
+1426290,Gujarat Titans,147,2024-05-04
+1426290,Royal Challengers Bangalore,152,2024-05-04
+1426291,Chennai Super Kings,167,2024-05-05
+1426291,Punjab Kings,139,2024-05-05
+1426292,Kolkata Knight Riders,235,2024-05-05
+1426292,Lucknow Super Giants,137,2024-05-05
+1426293,Mumbai Indians,174,2024-05-06
+1426293,Sunrisers Hyderabad,173,2024-05-06
+1426294,Delhi Capitals,221,2024-05-07
+1426294,Rajasthan Royals,201,2024-05-07
+1426295,Lucknow Super Giants,165,2024-05-08
+1426295,Sunrisers Hyderabad,167,2024-05-08
+1426296,Punjab Kings,181,2024-05-09
+1426296,Royal Challengers Bangalore,241,2024-05-09
+1426297,Chennai Super Kings,196,2024-05-10
+1426297,Gujarat Titans,231,2024-05-10
+1426298,Kolkata Knight Riders,157,2024-05-11
+1426298,Mumbai Indians,139,2024-05-11
+1426299,Chennai Super Kings,145,2024-05-12
+1426299,Rajasthan Royals,141,2024-05-12
+1426300,Delhi Capitals,140,2024-05-12
+1426300,Royal Challengers Bangalore,187,2024-05-12
+1426302,Delhi Capitals,208,2024-05-14
+1426302,Lucknow Super Giants,189,2024-05-14
+1426303,Punjab Kings,145,2024-05-15
+1426303,Rajasthan Royals,144,2024-05-15
+1426305,Lucknow Super Giants,214,2024-05-17
+1426305,Mumbai Indians,196,2024-05-17
+1426306,Chennai Super Kings,191,2024-05-18
+1426306,Royal Challengers Bangalore,218,2024-05-18
+1426307,Punjab Kings,214,2024-05-19
+1426307,Sunrisers Hyderabad,215,2024-05-19
+1426309,Kolkata Knight Riders,164,2024-05-21
+1426309,Sunrisers Hyderabad,159,2024-05-21
+1426310,Rajasthan Royals,174,2024-05-22
+1426310,Royal Challengers Bangalore,172,2024-05-22
+1426311,Rajasthan Royals,139,2024-05-24
+1426311,Sunrisers Hyderabad,175,2024-05-24
+1426312,Kolkata Knight Riders,114,2024-05-26
+1426312,Sunrisers Hyderabad,113,2024-05-26
+1473438,Kolkata Knight Riders,174,2025-03-22
+1473438,Royal Challengers Bangalore,177,2025-03-22
+1473439,Rajasthan Royals,242,2025-03-23
+1473439,Sunrisers Hyderabad,286,2025-03-23
+1473440,Chennai Super Kings,158,2025-03-23
+1473440,Mumbai Indians,155,2025-03-23
+1473441,Delhi Capitals,211,2025-03-24
+1473441,Lucknow Super Giants,209,2025-03-24
+1473442,Gujarat Titans,232,2025-03-25
+1473442,Punjab Kings,243,2025-03-25
+1473443,Kolkata Knight Riders,153,2025-03-26
+1473443,Rajasthan Royals,151,2025-03-26
+1473444,Lucknow Super Giants,193,2025-03-27
+1473444,Sunrisers Hyderabad,190,2025-03-27
+1473445,Chennai Super Kings,146,2025-03-28
+1473445,Royal Challengers Bangalore,196,2025-03-28
+1473446,Gujarat Titans,196,2025-03-29
+1473446,Mumbai Indians,160,2025-03-29
+1473447,Delhi Capitals,166,2025-03-30
+1473447,Sunrisers Hyderabad,163,2025-03-30
+1473448,Chennai Super Kings,176,2025-03-30
+1473448,Rajasthan Royals,182,2025-03-30
+1473449,Kolkata Knight Riders,116,2025-03-31
+1473449,Mumbai Indians,121,2025-03-31
+1473450,Lucknow Super Giants,171,2025-04-01
+1473450,Punjab Kings,177,2025-04-01
+1473451,Gujarat Titans,170,2025-04-02
+1473451,Royal Challengers Bangalore,169,2025-04-02
+1473452,Kolkata Knight Riders,200,2025-04-03
+1473452,Sunrisers Hyderabad,120,2025-04-03
+1473453,Lucknow Super Giants,203,2025-04-04
+1473453,Mumbai Indians,191,2025-04-04
+1473454,Chennai Super Kings,158,2025-04-05
+1473454,Delhi Capitals,183,2025-04-05
+1473455,Punjab Kings,155,2025-04-05
+1473455,Rajasthan Royals,205,2025-04-05
+1473456,Kolkata Knight Riders,234,2025-04-08
+1473456,Lucknow Super Giants,238,2025-04-08
+1473457,Gujarat Titans,153,2025-04-06
+1473457,Sunrisers Hyderabad,152,2025-04-06
+1473458,Mumbai Indians,209,2025-04-07
+1473458,Royal Challengers Bangalore,221,2025-04-07
+1473459,Chennai Super Kings,201,2025-04-08
+1473459,Punjab Kings,219,2025-04-08
+1473460,Gujarat Titans,217,2025-04-09
+1473460,Rajasthan Royals,159,2025-04-09
+1473461,Delhi Capitals,169,2025-04-10
+1473461,Royal Challengers Bangalore,163,2025-04-10
+1473462,Chennai Super Kings,103,2025-04-11
+1473462,Kolkata Knight Riders,107,2025-04-11
+1473463,Gujarat Titans,180,2025-04-12
+1473463,Lucknow Super Giants,186,2025-04-12
+1473464,Punjab Kings,245,2025-04-12
+1473464,Sunrisers Hyderabad,247,2025-04-12
+1473465,Rajasthan Royals,173,2025-04-13
+1473465,Royal Challengers Bangalore,175,2025-04-13
+1473466,Delhi Capitals,193,2025-04-13
+1473466,Mumbai Indians,205,2025-04-13
+1473467,Chennai Super Kings,168,2025-04-14
+1473467,Lucknow Super Giants,166,2025-04-14
+1473468,Kolkata Knight Riders,95,2025-04-15
+1473468,Punjab Kings,111,2025-04-15
+1473469,Delhi Capitals,201,2025-04-16
+1473469,Rajasthan Royals,199,2025-04-16
+1473470,Mumbai Indians,166,2025-04-17
+1473470,Sunrisers Hyderabad,162,2025-04-17
+1473471,Punjab Kings,98,2025-04-18
+1473471,Royal Challengers Bangalore,95,2025-04-18
+1473472,Delhi Capitals,203,2025-04-19
+1473472,Gujarat Titans,204,2025-04-19
+1473473,Lucknow Super Giants,180,2025-04-19
+1473473,Rajasthan Royals,178,2025-04-19
+1473474,Punjab Kings,157,2025-04-20
+1473474,Royal Challengers Bangalore,159,2025-04-20
+1473475,Chennai Super Kings,176,2025-04-20
+1473475,Mumbai Indians,177,2025-04-20
+1473476,Gujarat Titans,198,2025-04-21
+1473476,Kolkata Knight Riders,159,2025-04-21
+1473477,Delhi Capitals,161,2025-04-22
+1473477,Lucknow Super Giants,159,2025-04-22
+1473478,Mumbai Indians,146,2025-04-23
+1473478,Sunrisers Hyderabad,143,2025-04-23
+1473479,Rajasthan Royals,194,2025-04-24
+1473479,Royal Challengers Bangalore,205,2025-04-24
+1473480,Chennai Super Kings,154,2025-04-25
+1473480,Sunrisers Hyderabad,155,2025-04-25
+1473481,Kolkata Knight Riders,7,2025-04-26
+1473481,Punjab Kings,201,2025-04-26
+1473482,Lucknow Super Giants,161,2025-04-27
+1473482,Mumbai Indians,215,2025-04-27
+1473483,Delhi Capitals,162,2025-04-27
+1473483,Royal Challengers Bangalore,165,2025-04-27
+1473484,Gujarat Titans,209,2025-04-28
+1473484,Rajasthan Royals,212,2025-04-28
+1473485,Delhi Capitals,190,2025-04-29
+1473485,Kolkata Knight Riders,204,2025-04-29
+1473486,Chennai Super Kings,190,2025-04-30
+1473486,Punjab Kings,194,2025-04-30
+1473487,Mumbai Indians,217,2025-05-01
+1473487,Rajasthan Royals,117,2025-05-01
+1473488,Gujarat Titans,224,2025-05-02
+1473488,Sunrisers Hyderabad,186,2025-05-02
+1473489,Chennai Super Kings,211,2025-05-03
+1473489,Royal Challengers Bangalore,213,2025-05-03
+1473490,Kolkata Knight Riders,206,2025-05-04
+1473490,Rajasthan Royals,205,2025-05-04
+1473491,Lucknow Super Giants,199,2025-05-04
+1473491,Punjab Kings,236,2025-05-04
+1473492,Delhi Capitals,133,2025-05-05
+1473493,Gujarat Titans,147,2025-05-06
+1473493,Mumbai Indians,155,2025-05-06
+1473494,Chennai Super Kings,183,2025-05-07
+1473494,Kolkata Knight Riders,179,2025-05-07
+1473495,Punjab Kings,122,
+1473497,Punjab Kings,219,2025-05-18
+1473497,Rajasthan Royals,209,2025-05-18
+1473498,Delhi Capitals,199,2025-05-18
+1473498,Gujarat Titans,205,2025-05-18
+1473499,Lucknow Super Giants,205,2025-05-19
+1473499,Sunrisers Hyderabad,206,2025-05-19
+1473500,Chennai Super Kings,187,2025-05-20
+1473500,Rajasthan Royals,188,2025-05-20
+1473501,Delhi Capitals,121,2025-05-21
+1473501,Mumbai Indians,180,2025-05-21
+1473502,Gujarat Titans,202,2025-05-22
+1473502,Lucknow Super Giants,235,2025-05-22
+1473503,Royal Challengers Bangalore,189,2025-05-23
+1473503,Sunrisers Hyderabad,231,2025-05-23
+1473504,Chennai Super Kings,230,2025-05-25
+1473504,Gujarat Titans,147,2025-05-25
+1473505,Kolkata Knight Riders,168,2025-05-25
+1473505,Sunrisers Hyderabad,278,2025-05-25
+1473506,Mumbai Indians,184,2025-05-26
+1473506,Punjab Kings,187,2025-05-26
+1473507,Lucknow Super Giants,227,2025-05-27
+1473507,Royal Challengers Bangalore,230,2025-05-27
+1473508,Punjab Kings,101,2025-05-29
+1473508,Royal Challengers Bangalore,106,2025-05-29
+1473509,Gujarat Titans,208,2025-05-30
+1473509,Mumbai Indians,228,2025-05-30
+1473510,Mumbai Indians,203,2025-06-01
+1473510,Punjab Kings,207,2025-06-01
+1473511,Punjab Kings,184,2025-06-03
+1473511,Royal Challengers Bangalore,190,2025-06-03
+1485779,Delhi Capitals,208,2025-05-24
+1485779,Punjab Kings,206,2025-05-24
