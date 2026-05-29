@@ -3,6 +3,8 @@
 ### *Turning Game Data into Winning Strategies*
 ### *Where Performance Meets Intelligence*
 
+### App link: https://stratplay-intelligence.streamlit.app/
+
 ---
 
 ## 🚀 Overview
